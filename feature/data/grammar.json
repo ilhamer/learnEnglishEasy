@@ -1,0 +1,235 @@
+[
+    {
+        "id": 1,
+        "topic": "Simple Present Tense",
+        "explanation": "Digunakan untuk menyatakan kebiasaan, fakta umum, atau situasi permanen. Rumus: Subject + Verb 1 (s/es untuk he/she/it).",
+        "example": "She works at a hospital. (Dia bekerja di rumah sakit)",
+        "category": "tenses"
+    },
+    {
+        "id": 2,
+        "topic": "Present Continuous Tense",
+        "explanation": "Digunakan untuk menyatakan aksi yang sedang berlangsung sekarang. Rumus: Subject + am/is/are + Verb-ing.",
+        "example": "They are studying English now. (Mereka sedang belajar bahasa Inggris sekarang)",
+        "category": "tenses"
+    },
+    {
+        "id": 3,
+        "topic": "Simple Past Tense",
+        "explanation": "Digunakan untuk menyatakan aksi yang terjadi di masa lalu. Rumus: Subject + Verb 2.",
+        "example": "I watched a movie last night. (Saya menonton film tadi malam)",
+        "category": "tenses"
+    },
+    {
+        "id": 4,
+        "topic": "Struktur Kalimat Dasar",
+        "explanation": "Kalimat dasar dalam bahasa Inggris terdiri dari Subject + Verb + Object. Adjective biasanya berada sebelum noun.",
+        "example": "The cat (S) eats (V) fish (O). (Kucing makan ikan)",
+        "category": "sentence-structure"
+    },
+    {
+        "id": 5,
+        "topic": "Kata Benda (Noun)",
+        "explanation": "Kata yang digunakan untuk nama orang, tempat, benda, atau ide. Dapat berupa countable (dapat dihitung) atau uncountable (tidak dapat dihitung).",
+        "example": "Book (buku), water (air), happiness (kebahagiaan)",
+        "category": "parts-of-speech"
+    },
+    {
+        "id": 6,
+        "topic": "Kata Kerja (Verb)",
+        "explanation": "Kata yang menunjukkan tindakan atau keadaan. Bentuk dasar (V1), past (V2), dan past participle (V3).",
+        "example": "Go (pergi) - went (pergi, V2) - gone (pergi, V3)",
+        "category": "parts-of-speech"
+    },
+    {
+        "id": 7,
+        "topic": "Kata Sifat (Adjective)",
+        "explanation": "Kata yang mendeskripsikan noun. Biasanya berada sebelum noun atau setelah linking verb.",
+        "example": "A beautiful flower (bunga yang indah), She is smart (Dia pintar)",
+        "category": "parts-of-speech"
+    },
+    {
+        "id": 8,
+        "topic": "Future Tense dengan 'will'",
+        "explanation": "Digunakan untuk menyatakan aksi di masa depan yang spontan atau prediksi. Rumus: Subject + will + Verb 1.",
+        "example": "I will call you tomorrow. (Saya akan meneleponmu besok)",
+        "category": "tenses"
+    },
+    {
+        "id": 9,
+        "topic": "Present Perfect Tense",
+        "explanation": "Digunakan untuk menyatakan aksi yang sudah terjadi di masa lalu namun masih relevan atau ada hubungannya dengan sekarang. Rumus: Subject + have/has + V3.",
+        "example": "She has finished her homework. (Dia telah menyelesaikan PR-nya)",
+        "category": "tenses"
+    },
+    {
+        "id": 10,
+        "topic": "Kata Keterangan (Adverb)",
+        "explanation": "Kata yang mendeskripsikan verb, adjective, atau adverb lainnya. Menjawab pertanyaan bagaimana, kapan, di mana, seberapa sering.",
+        "example": "He runs quickly. (Dia berlari dengan cepat)",
+        "category": "parts-of-speech"
+    },
+    {
+        "id": 11,
+        "topic": "Kata Ganti (Pronoun)",
+        "explanation": "Kata yang menggantikan noun untuk menghindari pengulangan. Termasuk: I, you, he, she, it, we, they.",
+        "example": "Lisa is a teacher. She teaches math. (Lisa adalah guru. Dia mengajar matematika)",
+        "category": "parts-of-speech"
+    },
+    {
+        "id": 12,
+        "topic": "Past Continuous Tense",
+        "explanation": "Digunakan untuk menyatakan aksi yang sedang berlangsung pada waktu tertentu di masa lalu. Rumus: Subject + was/were + Verb-ing.",
+        "example": "I was reading a book at 8 PM. (Saya sedang membaca buku pukul 8 malam)",
+        "category": "tenses"
+    },
+    {
+        "id": 13,
+        "topic": "Future Tense dengan 'going to'",
+        "explanation": "Digunakan untuk menyatakan rencana atau niat di masa depan. Rumus: Subject + am/is/are + going to + Verb 1.",
+        "example": "We are going to travel next week. (Kami akan bepergian minggu depan)",
+        "category": "tenses"
+    },
+    {
+        "id": 14,
+        "topic": "Conjunction (Kata Hubung)",
+        "explanation": "Kata yang menghubungkan kata, frasa, atau kalimat. Contoh: and, but, or, because, although.",
+        "example": "I like tea and coffee. (Saya suka teh dan kopi)",
+        "category": "sentence-structure"
+    },
+    {
+        "id": 15,
+        "topic": "Preposition (Kata Depan)",
+        "explanation": "Kata yang menunjukkan hubungan antara noun/pronoun dengan kata lain, biasanya dalam konteks tempat atau waktu.",
+        "example": "The book is on the table. (Buku itu ada di atas meja)",
+        "category": "sentence-structure"
+    },
+    {
+        "id": 16,
+        "topic": "Interjection (Kata Seru)",
+        "explanation": "Kata yang mengungkapkan emosi secara spontan. Biasanya diikuti tanda seru (!).",
+        "example": "Wow! That's amazing. (Wow! Itu luar biasa)",
+        "category": "parts-of-speech"
+    },
+    {
+        "id": 17,
+        "topic": "Modal Verbs",
+        "explanation": "Kata kerja bantu yang digunakan untuk menyatakan kemampuan, izin, kemungkinan, atau keharusan. Contoh: can, could, may, must, should, will.",
+        "example": "You should see a doctor. (Kamu sebaiknya menemui dokter)",
+        "category": "sentence-structure"
+    },
+    {
+        "id": 18,
+        "topic": "Passive Voice (Kalimat Pasif)",
+        "explanation": "Digunakan ketika fokus kalimat adalah pada objek yang menerima aksi. Rumus: Subject + to be + V3.",
+        "example": "The cake was eaten by John. (Kue itu dimakan oleh John)",
+        "category": "sentence-structure"
+    },
+    {
+        "id": 19,
+        "topic": "Countable vs Uncountable Nouns",
+        "explanation": "Countable nouns bisa dihitung (1 apple, 2 apples), sedangkan uncountable tidak bisa dihitung satuan (milk, sugar, information).",
+        "example": "I have two apples. / I need some information.",
+        "category": "parts-of-speech"
+    },
+    {
+        "id": 20,
+        "topic": "Question Words (Wh- Questions)",
+        "explanation": "Kata tanya yang digunakan untuk menanyakan informasi spesifik. Contoh: what, where, when, why, who, how.",
+        "example": "Where do you live? (Di mana kamu tinggal?)",
+        "category": "sentence-structure"
+    },
+    {
+        "id": 21,
+        "topic": "Imperative Sentences (Kalimat Perintah)",
+        "explanation": "Kalimat yang memberikan perintah, instruksi, atau saran. Biasanya diawali dengan verb bentuk dasar.",
+        "example": "Close the door. (Tutup pintunya)",
+        "category": "sentence-structure"
+    },
+    {
+        "id": 22,
+        "topic": "Gerund",
+        "explanation": "Kata kerja yang berfungsi sebagai kata benda dengan menambahkan -ing. Biasanya digunakan setelah kata kerja tertentu atau sebagai subjek.",
+        "example": "Swimming is fun. (Berenang itu menyenangkan)",
+        "category": "parts-of-speech"
+    },
+    {
+        "id": 23,
+        "topic": "Infinitive",
+        "explanation": "Bentuk dasar kata kerja yang diawali dengan 'to', biasanya digunakan setelah kata kerja tertentu.",
+        "example": "I want to eat. (Saya ingin makan)",
+        "category": "parts-of-speech"
+    },
+    {
+        "id": 24,
+        "topic": "Comparative dan Superlative",
+        "explanation": "Comparative digunakan untuk membandingkan dua hal, superlative untuk menyatakan yang paling. Tambahkan -er/-est atau gunakan 'more/most'.",
+        "example": "Taller (lebih tinggi), the tallest (yang paling tinggi)",
+        "category": "sentence-structure"
+    },
+    {
+        "id": 25,
+        "topic": "Subject dan Object Pronouns",
+        "explanation": "Subject pronouns: I, you, he, she, it, we, they. Object pronouns: me, you, him, her, it, us, them.",
+        "example": "She loves him. (Dia mencintainya)",
+        "category": "parts-of-speech"
+    },
+    {
+        "id": 26,
+        "topic": "Relative Clauses",
+        "explanation": "Klausa yang memberikan informasi tambahan tentang noun, biasanya menggunakan who, which, that.",
+        "example": "The man who is talking is my father. (Pria yang sedang berbicara itu ayah saya)",
+        "category": "sentence-structure"
+    },
+    {
+        "id": 27,
+        "topic": "Conditional Sentences (If-Clauses)",
+        "explanation": "Digunakan untuk menyatakan syarat dan akibat. Ada 4 tipe utama: zero, first, second, third conditional.",
+        "example": "If it rains, we will cancel the trip. (Jika hujan, kita akan membatalkan perjalanan)",
+        "category": "sentence-structure"
+    },
+    {
+        "id": 28,
+        "topic": "Articles (a, an, the)",
+        "explanation": "Digunakan sebelum noun. 'a/an' untuk benda tunggal yang belum spesifik. 'the' untuk benda yang spesifik.",
+        "example": "I saw a cat. The cat was black. (Saya melihat seekor kucing. Kucing itu berwarna hitam)",
+        "category": "sentence-structure"
+    },
+    {
+        "id": 29,
+        "topic": "Tag Questions",
+        "explanation": "Pernyataan yang diikuti pertanyaan kecil untuk konfirmasi. Jika kalimat positif, tag-nya negatif, dan sebaliknya.",
+        "example": "You're coming, aren't you? (Kamu datang, kan?)",
+        "category": "sentence-structure"
+    },
+    {
+        "id": 30,
+        "topic": "Question Forms",
+        "explanation": "Pertanyaan bisa dalam bentuk Yes/No (Do you like coffee?) atau Wh- Questions (What do you like?).",
+        "example": "Do you like coffee? / What do you like?",
+        "category": "sentence-structure"
+    },
+    {
+        "id": 31,
+        "topic": "Direct and Indirect Speech",
+        "explanation": "Direct speech menyampaikan ucapan langsung. Indirect speech menyampaikan ucapan secara tidak langsung, biasanya dengan perubahan tense.",
+        "example": "She said, 'I am tired.' → She said that she was tired.",
+        "category": "sentence-structure"
+    },
+    {
+        "id": 32,
+        "topic": "Determiners",
+        "explanation": "Kata yang digunakan sebelum noun untuk menunjukkan jumlah, kepemilikan, atau spesifik. Contoh: some, many, this, my.",
+        "example": "I have some money. / That car is mine.",
+        "category": "parts-of-speech"
+    },
+    {
+        "id": 33,
+        "topic": "Punctuation Rules",
+        "explanation": "Aturan penggunaan tanda baca seperti titik (.), koma (,), tanda seru (!), tanda tanya (?).",
+        "example": "Hello, how are you? / Wow! That’s amazing.",
+        "category": "writing"
+    }
+    
+    
+]

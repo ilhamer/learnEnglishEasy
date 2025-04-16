@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tata Bahasa Inggris | EnglishForBeginners</title>
+    <link rel="stylesheet" href="css/grammar.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header class="grammar-header">
+        <div class="container">
+            <a href="index.html" class="logo">
+                <i class="fas fa-language logo-icon"></i>
+                <span>EnglishForBeginners</span>
+            </a>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Beranda</a></li>
+                    <li><a href="vocabulary.html">Kosakata</a></li>
+                    <li><a href="grammar.html" class="active">Tata Bahasa</a></li>
+                    <li><a href="pronunciation.html">Pelafalan</a></li>
+                </ul>
+                <button class="menu-toggle">
+                    <i class="fas fa-bars"></i>
+                </button>
+            </nav>
+        </div>
+    </header>
+
+    <main class="grammar-main">
+        <section class="hero-section">
+            <div class="container">
+                <h1>Tata Bahasa Inggris</h1>
+                <p class="subtitle">Pahami struktur dasar kalimat dalam bahasa Inggris</p>
+            </div>
+        </section>
+
+        <section class="grammar-content">
+            <div class="container">
+                <div class="category-filter">
+                    <button class="filter-btn active" data-category="all">Semua Topik</button>
+                    <button class="filter-btn" data-category="tenses">Tenses</button>
+                    <button class="filter-btn" data-category="sentence-structure">Struktur Kalimat</button>
+                    <button class="filter-btn" data-category="parts-of-speech">Part of Speech</button>
+                </div>
+
+                <div class="search-box">
+                    <input type="text" placeholder="Cari materi tata bahasa...">
+                    <button class="search-btn">
+                        <i class="fas fa-search"></i>
+                    </button>
+                </div>
+
+                <div class="grammar-grid" id="grammarGrid">
+                    <!-- Konten akan diisi oleh JavaScript -->
+                    <div class="loading">
+                        <div class="loader"></div>
+                        <p>Memuat materi...</p>
+                    </div>
+                </div>
+
+                <div class="pagination">
+                    <button class="page-btn" id="prevPage" disabled><i class="fas fa-chevron-left"></i></button>
+                    <span class="page-number" id="pageNumber">1</span>
+                    <button class="page-btn" id="nextPage"><i class="fas fa-chevron-right"></i></button>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="grammar-footer">
+        <div class="container">
+            <p>&copy; 2023 EnglishForBeginners. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/grammar.js"></script>
+</body>
+</html>
