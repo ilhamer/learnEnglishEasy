@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kosakata Dasar | EnglishForBeginners</title>
+    <link rel="stylesheet" href="css/vocabulary.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header class="vocab-header">
+        <div class="container">
+            <a href="index.html" class="logo">
+                <i class="fas fa-language logo-icon"></i>
+                <span>EnglishForBeginners</span>
+            </a>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Beranda</a></li>
+                    <li><a href="vocabulary.html" class="active">Kosakata</a></li>
+                    <li><a href="grammar.html">Tata Bahasa</a></li>
+                    <li><a href="pronunciation.html">Pelafalan</a></li>
+                </ul>
+                <button class="menu-toggle">
+                    <i class="fas fa-bars"></i>
+                </button>
+            </nav>
+        </div>
+    </header>
+
+    <main class="vocab-main">
+        <section class="hero-section">
+            <div class="container">
+                <h1>Kosakata Dasar</h1>
+                <p class="subtitle">Pelajari kata-kata penting untuk percakapan sehari-hari</p>
+            </div>
+        </section>
+
+        <section class="vocab-content">
+            <div class="container">
+                <div class="category-filter">
+                    <button class="filter-btn active" data-category="all">Semua Kategori</button>
+                    <button class="filter-btn" data-category="greetings">Sapaan</button>
+                    <button class="filter-btn" data-category="food">Makanan</button>
+                    <button class="filter-btn" data-category="family">Keluarga</button>
+                    <button class="filter-btn" data-category="verbs">Kata Kerja</button>
+                </div>
+
+                <div class="search-box">
+                    <input type="text" placeholder="Cari kosakata...">
+                    <button class="search-btn">
+                        <i class="fas fa-search"></i>
+                    </button>
+                </div>
+
+                <div class="vocab-grid">
+                    <!-- Kosakata items akan diisi oleh JavaScript -->
+                </div>
+
+                <div class="pagination">
+                    <button class="page-btn" disabled><i class="fas fa-chevron-left"></i></button>
+                    <span class="page-number">1</span>
+                    <button class="page-btn"><i class="fas fa-chevron-right"></i></button>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <div class="loading-container" id="loading">
+        <div class="loader"></div>
+        <p>Memuat kosakata...</p>
+    </div>
+
+    <footer class="vocab-footer">
+        <div class="container">
+            <p>&copy; 2023 EnglishForBeginners. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/vocabulary.js"></script>
+</body>
+</html>

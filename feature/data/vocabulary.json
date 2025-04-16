@@ -1,0 +1,946 @@
+[
+  {
+    "id": 1,
+    "word": "Hello",
+    "meaning": "Halo",
+    "category": "greetings",
+    "example": "Hello, how are you?",
+    "audio_file": "Hello.mp3"
+  },
+  {
+    "id": 2,
+    "word": "Goodbye",
+    "meaning": "Selamat tinggal",
+    "category": "greetings",
+    "example": "Goodbye, see you tomorrow!",
+    "audio_file": "Goodbye.mp3"
+  },
+  {
+    "id": 3,
+    "word": "Apple",
+    "meaning": "Apel",
+    "category": "food",
+    "example": "I eat an apple every day",
+    "audio_file": "Apple.mp3"
+  },
+  {
+    "id": 4,
+    "word": "Water",
+    "meaning": "Air",
+    "category": "food",
+    "example": "Please drink more water",
+    "audio_file": "Water.mp3"
+  },
+  {
+    "id": 5,
+    "word": "Mother",
+    "meaning": "Ibu",
+    "category": "family",
+    "example": "My mother is kind",
+    "audio_file": "Mother.mp3"
+  },
+  {
+    "id": 6,
+    "word": "Father",
+    "meaning": "Ayah",
+    "category": "family",
+    "example": "My father works hard",
+    "audio_file": "Father.mp3"
+  },
+  {
+    "id": 7,
+    "word": "Eat",
+    "meaning": "Makan",
+    "category": "verbs",
+    "example": "I eat breakfast at 7 AM",
+    "audio_file": "Eat.mp3"
+  },
+  {
+    "id": 8,
+    "word": "Drink",
+    "meaning": "Minum",
+    "category": "verbs",
+    "example": "I drink coffee every morning",
+    "audio_file": "Drink.mp3"
+  },
+  {
+    "id": 9,
+    "word": "Book",
+    "meaning": "Buku",
+    "category": "object",
+    "example": "I read a book every night",
+    "audio_file": "Book.mp3"
+  },
+  {
+    "id": 10,
+    "word": "Chair",
+    "meaning": "Kursi",
+    "category": "object",
+    "example": "The chair is very comfortable",
+    "audio_file": "Chair.mp3"
+  },
+  {
+    "id": 11,
+    "word": "Run",
+    "meaning": "Lari",
+    "category": "verbs",
+    "example": "I run every morning",
+    "audio_file": "Run.mp3"
+  },
+  {
+    "id": 12,
+    "word": "Sleep",
+    "meaning": "Tidur",
+    "category": "verbs",
+    "example": "I sleep at 10 PM",
+    "audio_file": "Sleep.mp3"
+  },
+  {
+    "id": 13,
+    "word": "Happy",
+    "meaning": "Bahagia",
+    "category": "adjectives",
+    "example": "She looks very happy today",
+    "audio_file": "Happy.mp3"
+  },
+  {
+    "id": 14,
+    "word": "Sad",
+    "meaning": "Sedih",
+    "category": "adjectives",
+    "example": "He felt sad after watching the movie",
+    "audio_file": "Sad.mp3"
+  },
+  {
+    "id": 15,
+    "word": "Cat",
+    "meaning": "Kucing",
+    "category": "animals",
+    "example": "The cat is sleeping on the sofa",
+    "audio_file": "Cat.mp3"
+  },
+  {
+    "id": 16,
+    "word": "Dog",
+    "meaning": "Anjing",
+    "category": "animals",
+    "example": "The dog barked loudly",
+    "audio_file": "Dog.mp3"
+  },
+  {
+    "id": 17,
+    "word": "School",
+    "meaning": "Sekolah",
+    "category": "place",
+    "example": "I go to school by bus",
+    "audio_file": "School.mp3"
+  },
+  {
+    "id": 18,
+    "word": "Market",
+    "meaning": "Pasar",
+    "category": "place",
+    "example": "My mother buys vegetables at the market",
+    "audio_file": "Market.mp3"
+  },
+  {
+    "id": 19,
+    "word": "Smile",
+    "meaning": "Senyum",
+    "category": "verbs",
+    "example": "He has a nice smile",
+    "audio_file": "Smile.mp3"
+  },
+  {
+    "id": 20,
+    "word": "Cry",
+    "meaning": "Menangis",
+    "category": "verbs",
+    "example": "The baby starts to cry",
+    "audio_file": "Cry.mp3"
+  },
+  {
+    "id": 21,
+    "word": "Run",
+    "meaning": "Berlari",
+    "category": "verbs",
+    "example": "I run every morning",
+    "audio_file": "Run.mp3"
+  },
+  {
+    "id": 22,
+    "word": "Jump",
+    "meaning": "Melompat",
+    "category": "verbs",
+    "example": "The cat jumps over the wall",
+    "audio_file": "Jump.mp3"
+  },
+  {
+    "id": 23,
+    "word": "Happy",
+    "meaning": "Bahagia",
+    "category": "adjectives",
+    "example": "She feels happy today",
+    "audio_file": "Happy.mp3"
+  },
+  {
+    "id": 24,
+    "word": "Sad",
+    "meaning": "Sedih",
+    "category": "adjectives",
+    "example": "He looks sad",
+    "audio_file": "Sad.mp3"
+  },
+  {
+    "id": 25,
+    "word": "Cold",
+    "meaning": "Dingin",
+    "category": "adjectives",
+    "example": "It is very cold outside",
+    "audio_file": "Cold.mp3"
+  },
+  {
+    "id": 26,
+    "word": "Hot",
+    "meaning": "Panas",
+    "category": "adjectives",
+    "example": "The soup is hot",
+    "audio_file": "Hot.mp3"
+  },
+  {
+    "id": 27,
+    "word": "School",
+    "meaning": "Sekolah",
+    "category": "place",
+    "example": "The children go to school",
+    "audio_file": "School.mp3"
+  },
+  {
+    "id": 28,
+    "word": "Market",
+    "meaning": "Pasar",
+    "category": "place",
+    "example": "My mom buys vegetables at the market",
+    "audio_file": "Market.mp3"
+  },
+  {
+    "id": 29,
+    "word": "Chair",
+    "meaning": "Kursi",
+    "category": "object",
+    "example": "He sits on the chair",
+    "audio_file": "Chair.mp3"
+  },
+  {
+    "id": 30,
+    "word": "Table",
+    "meaning": "Meja",
+    "category": "object",
+    "example": "The book is on the table",
+    "audio_file": "Table.mp3"
+  },
+  {
+    "id": 31,
+    "word": "Black",
+    "meaning": "Hitam",
+    "category": "colors",
+    "example": "He wears black shoes",
+    "audio_file": "Black.mp3"
+  },
+  {
+    "id": 32,
+    "word": "White",
+    "meaning": "Putih",
+    "category": "colors",
+    "example": "The paper is white",
+    "audio_file": "White.mp3"
+  },
+  {
+    "id": 33,
+    "word": "Sun",
+    "meaning": "Matahari",
+    "category": "nature",
+    "example": "The sun is shining",
+    "audio_file": "Sun.mp3"
+  },
+  {
+    "id": 34,
+    "word": "Rain",
+    "meaning": "Hujan",
+    "category": "nature",
+    "example": "It starts to rain",
+    "audio_file": "Rain.mp3"
+  },
+  {
+    "id": 35,
+    "word": "Friend",
+    "meaning": "Teman",
+    "category": "people",
+    "example": "My friend helps me",
+    "audio_file": "Friend.mp3"
+  },
+  {
+    "id": 36,
+    "word": "Brother",
+    "meaning": "Saudara laki-laki",
+    "category": "family",
+    "example": "My brother is older than me",
+    "audio_file": "Brother.mp3"
+  },
+  {
+    "id": 37,
+    "word": "Sister",
+    "meaning": "Saudara perempuan",
+    "category": "family",
+    "example": "I love my sister",
+    "audio_file": "Sister.mp3"
+  },
+  {
+    "id": 38,
+    "word": "Book",
+    "meaning": "Buku",
+    "category": "object",
+    "example": "I read a book before sleeping",
+    "audio_file": "Book.mp3"
+  },
+  {
+    "id": 39,
+    "word": "Pen",
+    "meaning": "Pulpen",
+    "category": "object",
+    "example": "I write with a pen",
+    "audio_file": "Pen.mp3"
+  },
+  {
+    "id": 40,
+    "word": "Notebook",
+    "meaning": "Buku catatan",
+    "category": "object",
+    "example": "She opens her notebook",
+    "audio_file": "Notebook.mp3"
+  },
+  {
+    "id": 41,
+    "word": "Dog",
+    "meaning": "Anjing",
+    "category": "animal",
+    "example": "The dog is barking",
+    "audio_file": "Dog.mp3"
+  },
+  {
+    "id": 42,
+    "word": "Cat",
+    "meaning": "Kucing",
+    "category": "animal",
+    "example": "The cat is sleeping",
+    "audio_file": "Cat.mp3"
+  },
+  {
+    "id": 43,
+    "word": "Bird",
+    "meaning": "Burung",
+    "category": "animal",
+    "example": "A bird is flying in the sky",
+    "audio_file": "Bird.mp3"
+  },
+  {
+    "id": 44,
+    "word": "Fish",
+    "meaning": "Ikan",
+    "category": "animal",
+    "example": "We see many fish in the pond",
+    "audio_file": "Fish.mp3"
+  },
+  {
+    "id": 45,
+    "word": "Car",
+    "meaning": "Mobil",
+    "category": "transportation",
+    "example": "My father drives a car",
+    "audio_file": "Car.mp3"
+  },
+  {
+    "id": 46,
+    "word": "Bus",
+    "meaning": "Bus",
+    "category": "transportation",
+    "example": "I go to school by bus",
+    "audio_file": "Bus.mp3"
+  },
+  {
+    "id": 47,
+    "word": "Bike",
+    "meaning": "Sepeda",
+    "category": "transportation",
+    "example": "She rides her bike to the park",
+    "audio_file": "Bike.mp3"
+  },
+  {
+    "id": 48,
+    "word": "Train",
+    "meaning": "Kereta",
+    "category": "transportation",
+    "example": "The train is fast",
+    "audio_file": "Train.mp3"
+  },
+  {
+    "id": 49,
+    "word": "Teacher",
+    "meaning": "Guru",
+    "category": "people",
+    "example": "The teacher is writing on the board",
+    "audio_file": "Teacher.mp3"
+  },
+  {
+    "id": 50,
+    "word": "Doctor",
+    "meaning": "Dokter",
+    "category": "people",
+    "example": "The doctor checks the patient",
+    "audio_file": "Doctor.mp3"
+  },
+  {
+    "id": 51,
+    "word": "Nurse",
+    "meaning": "Perawat",
+    "category": "people",
+    "example": "The nurse helps the doctor",
+    "audio_file": "Nurse.mp3"
+  },
+  {
+    "id": 52,
+    "word": "Police",
+    "meaning": "Polisi",
+    "category": "people",
+    "example": "The police officer is kind",
+    "audio_file": "Police.mp3"
+  },
+  {
+    "id": 53,
+    "word": "Rice",
+    "meaning": "Nasi",
+    "category": "food",
+    "example": "I eat rice for lunch",
+    "audio_file": "Rice.mp3"
+  },
+  {
+    "id": 54,
+    "word": "Bread",
+    "meaning": "Roti",
+    "category": "food",
+    "example": "She eats bread and butter",
+    "audio_file": "Bread.mp3"
+  },
+  {
+    "id": 55,
+    "word": "Milk",
+    "meaning": "Susu",
+    "category": "food",
+    "example": "Milk is good for health",
+    "audio_file": "Milk.mp3"
+  },
+  {
+    "id": 56,
+    "word": "Egg",
+    "meaning": "Telur",
+    "category": "food",
+    "example": "He eats a boiled egg",
+    "audio_file": "Egg.mp3"
+  },
+  {
+    "id": 57,
+    "word": "Window",
+    "meaning": "Jendela",
+    "category": "object",
+    "example": "Please open the window",
+    "audio_file": "Window.mp3"
+  },
+  {
+    "id": 58,
+    "word": "Door",
+    "meaning": "Pintu",
+    "category": "object",
+    "example": "She knocks on the door",
+    "audio_file": "Door.mp3"
+  },
+  {
+    "id": 59,
+    "word": "Chair",
+    "meaning": "Kursi",
+    "category": "object",
+    "example": "He sits on the chair",
+    "audio_file": "Chair.mp3"
+  },
+  {
+    "id": 60,
+    "word": "Table",
+    "meaning": "Meja",
+    "category": "object",
+    "example": "The book is on the table",
+    "audio_file": "Table.mp3"
+  },
+  {
+    "id": 61,
+    "word": "School",
+    "meaning": "Sekolah",
+    "category": "place",
+    "example": "We go to school every day",
+    "audio_file": "School.mp3"
+  },
+  {
+    "id": 62,
+    "word": "Market",
+    "meaning": "Pasar",
+    "category": "place",
+    "example": "My mom buys vegetables at the market",
+    "audio_file": "Market.mp3"
+  },
+  {
+    "id": 63,
+    "word": "Hospital",
+    "meaning": "Rumah sakit",
+    "category": "place",
+    "example": "He is taken to the hospital",
+    "audio_file": "Hospital.mp3"
+  },
+  {
+    "id": 64,
+    "word": "Library",
+    "meaning": "Perpustakaan",
+    "category": "place",
+    "example": "She studies in the library",
+    "audio_file": "Library.mp3"
+  },
+  {
+    "id": 65,
+    "word": "Run",
+    "meaning": "Lari",
+    "category": "verbs",
+    "example": "He runs every morning",
+    "audio_file": "Run.mp3"
+  },
+  {
+    "id": 66,
+    "word": "Jump",
+    "meaning": "Lompat",
+    "category": "verbs",
+    "example": "The children jump with joy",
+    "audio_file": "Jump.mp3"
+  },
+  {
+    "id": 67,
+    "word": "Sleep",
+    "meaning": "Tidur",
+    "category": "verbs",
+    "example": "I sleep at 10 PM",
+    "audio_file": "Sleep.mp3"
+  },
+  {
+    "id": 68,
+    "word": "Read",
+    "meaning": "Membaca",
+    "category": "verbs",
+    "example": "She reads a book before bed",
+    "audio_file": "Read.mp3"
+  },
+  {
+    "id": 69,
+    "word": "Write",
+    "meaning": "Menulis",
+    "category": "verbs",
+    "example": "He writes in his notebook",
+    "audio_file": "Write.mp3"
+  },
+  {
+    "id": 70,
+    "word": "Listen",
+    "meaning": "Mendengarkan",
+    "category": "verbs",
+    "example": "They listen to music together",
+    "audio_file": "Listen.mp3"
+  },
+  {
+    "id": 71,
+    "word": "Sun",
+    "meaning": "Matahari",
+    "category": "nature",
+    "example": "The sun is shining brightly",
+    "audio_file": "Sun.mp3"
+  },
+  {
+    "id": 72,
+    "word": "Moon",
+    "meaning": "Bulan",
+    "category": "nature",
+    "example": "The moon is full tonight",
+    "audio_file": "Moon.mp3"
+  },
+  {
+    "id": 73,
+    "word": "Star",
+    "meaning": "Bintang",
+    "category": "nature",
+    "example": "The sky is full of stars",
+    "audio_file": "Star.mp3"
+  },
+  {
+    "id": 74,
+    "word": "Rain",
+    "meaning": "Hujan",
+    "category": "nature",
+    "example": "It is raining heavily",
+    "audio_file": "Rain.mp3"
+  },
+  {
+    "id": 75,
+    "word": "Wind",
+    "meaning": "Angin",
+    "category": "nature",
+    "example": "The wind is strong today",
+    "audio_file": "Wind.mp3"
+  },
+  {
+    "id": 76,
+    "word": "Cloud",
+    "meaning": "Awan",
+    "category": "nature",
+    "example": "Dark clouds cover the sky",
+    "audio_file": "Cloud.mp3"
+  },
+  {
+    "id": 77,
+    "word": "Snow",
+    "meaning": "Salju",
+    "category": "nature",
+    "example": "Snow is falling softly",
+    "audio_file": "Snow.mp3"
+  },
+  {
+    "id": 78,
+    "word": "Tree",
+    "meaning": "Pohon",
+    "category": "nature",
+    "example": "The tree is tall and green",
+    "audio_file": "Tree.mp3"
+  },
+  {
+    "id": 79,
+    "word": "Window",
+    "meaning": "Jendela",
+    "category": "object",
+    "example": "She opened the window to let fresh air in",
+    "audio_file": "Window.mp3"
+  },
+  {
+    "id": 80,
+    "word": "Door",
+    "meaning": "Pintu",
+    "category": "object",
+    "example": "Please close the door quietly",
+    "audio_file": "Door.mp3"
+  },
+  {
+    "id": 81,
+    "word": "Pen",
+    "meaning": "Pulpen",
+    "category": "object",
+    "example": "I write with a blue pen",
+    "audio_file": "Pen.mp3"
+  },
+  {
+    "id": 82,
+    "word": "Pencil",
+    "meaning": "Pensil",
+    "category": "object",
+    "example": "He draws using a pencil",
+    "audio_file": "Pencil.mp3"
+  },
+  {
+    "id": 83,
+    "word": "Notebook",
+    "meaning": "Buku catatan",
+    "category": "object",
+    "example": "She keeps her notes in a notebook",
+    "audio_file": "Notebook.mp3"
+  },
+  {
+    "id": 84,
+    "word": "Bag",
+    "meaning": "Tas",
+    "category": "object",
+    "example": "He carries a bag to school",
+    "audio_file": "Bag.mp3"
+  },
+  {
+    "id": 85,
+    "word": "Phone",
+    "meaning": "Telepon",
+    "category": "technology",
+    "example": "She called me on the phone",
+    "audio_file": "Phone.mp3"
+  },
+  {
+    "id": 86,
+    "word": "Computer",
+    "meaning": "Komputer",
+    "category": "technology",
+    "example": "I use the computer to write documents",
+    "audio_file": "Computer.mp3"
+  },
+  {
+    "id": 87,
+    "word": "Keyboard",
+    "meaning": "Papan ketik",
+    "category": "technology",
+    "example": "He types on the keyboard",
+    "audio_file": "Keyboard.mp3"
+  },
+  {
+    "id": 88,
+    "word": "Mouse",
+    "meaning": "Tetikus",
+    "category": "technology",
+    "example": "Move the mouse to click",
+    "audio_file": "Mouse.mp3"
+  },
+  {
+    "id": 89,
+    "word": "Television",
+    "meaning": "Televisi",
+    "category": "technology",
+    "example": "We watched the movie on television",
+    "audio_file": "Television.mp3"
+  },
+  {
+    "id": 90,
+    "word": "Lamp",
+    "meaning": "Lampu",
+    "category": "object",
+    "example": "Turn on the lamp, it's dark",
+    "audio_file": "Lamp.mp3"
+  },
+  {
+    "id": 91,
+    "word": "Clock",
+    "meaning": "Jam",
+    "category": "object",
+    "example": "The clock shows 8 o’clock",
+    "audio_file": "Clock.mp3"
+  },
+  {
+    "id": 92,
+    "word": "Bed",
+    "meaning": "Tempat tidur",
+    "category": "object",
+    "example": "I sleep on a comfortable bed",
+    "audio_file": "Bed.mp3"
+  },
+  {
+    "id": 93,
+    "word": "Mirror",
+    "meaning": "Cermin",
+    "category": "object",
+    "example": "She looked at herself in the mirror",
+    "audio_file": "Mirror.mp3"
+  },
+  {
+    "id": 94,
+    "word": "Toothbrush",
+    "meaning": "Sikat gigi",
+    "category": "daily item",
+    "example": "Don't forget to use your toothbrush",
+    "audio_file": "Toothbrush.mp3"
+  },
+  {
+    "id": 95,
+    "word": "Towel",
+    "meaning": "Handuk",
+    "category": "daily item",
+    "example": "Dry your hands with a towel",
+    "audio_file": "Towel.mp3"
+  },
+  {
+    "id": 96,
+    "word": "Soap",
+    "meaning": "Sabun",
+    "category": "daily item",
+    "example": "Wash your hands with soap",
+    "audio_file": "Soap.mp3"
+  },
+  {
+    "id": 97,
+    "word": "Shampoo",
+    "meaning": "Sampo",
+    "category": "daily item",
+    "example": "She washed her hair with shampoo",
+    "audio_file": "Shampoo.mp3"
+  },
+  {
+    "id": 98,
+    "word": "Comb",
+    "meaning": "Sisir",
+    "category": "daily item",
+    "example": "I comb my hair every morning",
+    "audio_file": "Comb.mp3"
+  },
+  {
+    "id": 99,
+    "word": "Chair",
+    "meaning": "Kursi",
+    "category": "object",
+    "example": "He sat on the chair near the window",
+    "audio_file": "Chair.mp3"
+  },
+  {
+    "id": 100,
+    "word": "Table",
+    "meaning": "Meja",
+    "category": "object",
+    "example": "The book is on the table",
+    "audio_file": "Table.mp3"
+  },
+  {
+    "id": 101,
+    "word": "Fan",
+    "meaning": "Kipas angin",
+    "category": "object",
+    "example": "She turned on the fan because it was hot",
+    "audio_file": "Fan.mp3"
+  },
+  {
+    "id": 102,
+    "word": "Curtain",
+    "meaning": "Gorden",
+    "category": "object",
+    "example": "Close the curtain before sleeping",
+    "audio_file": "Curtain.mp3"
+  },
+  {
+    "id": 103,
+    "word": "Plate",
+    "meaning": "Piring",
+    "category": "kitchen",
+    "example": "Put the food on the plate",
+    "audio_file": "Plate.mp3"
+  },
+  {
+    "id": 104,
+    "word": "Spoon",
+    "meaning": "Sendok",
+    "category": "kitchen",
+    "example": "He eats soup with a spoon",
+    "audio_file": "Spoon.mp3"
+  },
+  {
+    "id": 105,
+    "word": "Fork",
+    "meaning": "Garpu",
+    "category": "kitchen",
+    "example": "Use a fork to eat noodles",
+    "audio_file": "Fork.mp3"
+  },
+  {
+    "id": 106,
+    "word": "Knife",
+    "meaning": "Pisau",
+    "category": "kitchen",
+    "example": "Be careful with the knife",
+    "audio_file": "Knife.mp3"
+  },
+  {
+    "id": 107,
+    "word": "Cup",
+    "meaning": "Cangkir",
+    "category": "kitchen",
+    "example": "She drank tea from a cup",
+    "audio_file": "Cup.mp3"
+  },
+  {
+    "id": 108,
+    "word": "Bottle",
+    "meaning": "Botol",
+    "category": "object",
+    "example": "He filled the bottle with water",
+    "audio_file": "Bottle.mp3"
+  },
+  {
+    "id": 109,
+    "word": "Bowl",
+    "meaning": "Mangkok",
+    "category": "kitchen",
+    "example": "Soup is served in a bowl",
+    "audio_file": "Bowl.mp3"
+  },
+  {
+    "id": 110,
+    "word": "Stove",
+    "meaning": "Kompor",
+    "category": "kitchen",
+    "example": "She cooks rice on the stove",
+    "audio_file": "Stove.mp3"
+  },
+  {
+    "id": 111,
+    "word": "Pan",
+    "meaning": "Wajan",
+    "category": "kitchen",
+    "example": "Fry the eggs in a pan",
+    "audio_file": "Pan.mp3"
+  },
+  {
+    "id": 112,
+    "word": "Fridge",
+    "meaning": "Kulkas",
+    "category": "kitchen",
+    "example": "Milk is in the fridge",
+    "audio_file": "Fridge.mp3"
+  },
+  {
+    "id": 113,
+    "word": "Ceiling",
+    "meaning": "Langit-langit",
+    "category": "object",
+    "example": "There’s a fan on the ceiling",
+    "audio_file": "Ceiling.mp3"
+  },
+  {
+    "id": 114,
+    "word": "Floor",
+    "meaning": "Lantai",
+    "category": "object",
+    "example": "The floor is clean",
+    "audio_file": "Floor.mp3"
+  },
+  {
+    "id": 115,
+    "word": "Wall",
+    "meaning": "Dinding",
+    "category": "object",
+    "example": "The picture hangs on the wall",
+    "audio_file": "Wall.mp3"
+  },
+  {
+    "id": 116,
+    "word": "Roof",
+    "meaning": "Atap",
+    "category": "object",
+    "example": "The roof is made of metal",
+    "audio_file": "Roof.mp3"
+  },
+  {
+    "id": 117,
+    "word": "Gate",
+    "meaning": "Gerbang",
+    "category": "object",
+    "example": "The gate is locked at night",
+    "audio_file": "Gate.mp3"
+  },
+  {
+    "id": 118,
+    "word": "Fence",
+    "meaning": "Pagar",
+    "category": "object",
+    "example": "The dog is behind the fence",
+    "audio_file": "Fence.mp3"
+  }
+]
