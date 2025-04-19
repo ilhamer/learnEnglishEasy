@@ -54,5 +54,1755 @@
     "meaning": "Selamat malam",
     "audio_file": "good_night.mp3",
     "category": "greetings"
+  },
+  {
+    "word": "Yes",
+    "phonetic": "/jes/",
+    "meaning": "Ya",
+    "audio_file": "yes.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "No",
+    "phonetic": "/noʊ/",
+    "meaning": "Tidak",
+    "audio_file": "no.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "What is your name?",
+    "phonetic": "/wɒt ɪz jɔːr neɪm/",
+    "meaning": "Siapa namamu?",
+    "audio_file": "what_is_your_name.mp3",
+    "category": "questions"
+  },
+  {
+    "word": "My name is...",
+    "phonetic": "/maɪ neɪm ɪz/",
+    "meaning": "Nama saya adalah...",
+    "audio_file": "my_name_is.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "Nice to meet you",
+    "phonetic": "/naɪs tuː miːt juː/",
+    "meaning": "Senang bertemu denganmu",
+    "audio_file": "nice_to_meet_you.mp3",
+    "category": "greetings"
+  },
+  {
+    "word": "I don't understand",
+    "phonetic": "/aɪ doʊnt ˌʌndərˈstænd/",
+    "meaning": "Saya tidak mengerti",
+    "audio_file": "i_dont_understand.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "Can you help me?",
+    "phonetic": "/kæn juː help miː/",
+    "meaning": "Bisakah kamu membantu saya?",
+    "audio_file": "can_you_help_me.mp3",
+    "category": "questions"
+  },
+  {
+    "word": "I'm sorry",
+    "phonetic": "/aɪm ˈsɒri/",
+    "meaning": "Saya minta maaf",
+    "audio_file": "im_sorry.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "You're welcome",
+    "phonetic": "/jʊr ˈwɛlkəm/",
+    "meaning": "Sama-sama",
+    "audio_file": "youre_welcome.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "Good afternoon",
+    "phonetic": "/ɡʊd ˌæftərˈnuːn/",
+    "meaning": "Selamat siang",
+    "audio_file": "good_afternoon.mp3",
+    "category": "greetings"
+  },
+  {
+    "word": "Yes",
+    "phonetic": "/jes/",
+    "meaning": "Ya",
+    "audio_file": "yes.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "No",
+    "phonetic": "/noʊ/",
+    "meaning": "Tidak",
+    "audio_file": "no.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "What is your name?",
+    "phonetic": "/wɒt ɪz jɔːr neɪm/",
+    "meaning": "Siapa namamu?",
+    "audio_file": "what_is_your_name.mp3",
+    "category": "questions"
+  },
+  {
+    "word": "My name is...",
+    "phonetic": "/maɪ neɪm ɪz/",
+    "meaning": "Nama saya adalah...",
+    "audio_file": "my_name_is.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "Nice to meet you",
+    "phonetic": "/naɪs tuː miːt juː/",
+    "meaning": "Senang bertemu denganmu",
+    "audio_file": "nice_to_meet_you.mp3",
+    "category": "greetings"
+  },
+  {
+    "word": "I don't understand",
+    "phonetic": "/aɪ doʊnt ˌʌndərˈstænd/",
+    "meaning": "Saya tidak mengerti",
+    "audio_file": "i_dont_understand.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "Can you help me?",
+    "phonetic": "/kæn juː help miː/",
+    "meaning": "Bisakah kamu membantu saya?",
+    "audio_file": "can_you_help_me.mp3",
+    "category": "questions"
+  },
+  {
+    "word": "I'm sorry",
+    "phonetic": "/aɪm ˈsɒri/",
+    "meaning": "Saya minta maaf",
+    "audio_file": "im_sorry.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "You're welcome",
+    "phonetic": "/jʊr ˈwɛlkəm/",
+    "meaning": "Sama-sama",
+    "audio_file": "youre_welcome.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "Good afternoon",
+    "phonetic": "/ɡʊd ˌæftərˈnuːn/",
+    "meaning": "Selamat siang",
+    "audio_file": "good_afternoon.mp3",
+    "category": "greetings"
+  },
+  {
+    "word": "Where is the toilet?",
+    "phonetic": "/wɛr ɪz ðə ˈtɔɪlɪt/",
+    "meaning": "Di mana kamar mandi?",
+    "audio_file": "where_is_the_toilet.mp3",
+    "category": "questions"
+  },
+  {
+    "word": "I’m hungry",
+    "phonetic": "/aɪm ˈhʌŋɡri/",
+    "meaning": "Saya lapar",
+    "audio_file": "im_hungry.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "I’m thirsty",
+    "phonetic": "/aɪm ˈθɜːsti/",
+    "meaning": "Saya haus",
+    "audio_file": "im_thirsty.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "What time is it?",
+    "phonetic": "/wɒt taɪm ɪz ɪt/",
+    "meaning": "Jam berapa sekarang?",
+    "audio_file": "what_time_is_it.mp3",
+    "category": "questions"
+  },
+  {
+    "word": "I’m lost",
+    "phonetic": "/aɪm lɒst/",
+    "meaning": "Saya tersesat",
+    "audio_file": "im_lost.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "I love you",
+    "phonetic": "/aɪ lʌv juː/",
+    "meaning": "Aku cinta kamu",
+    "audio_file": "i_love_you.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "Be careful",
+    "phonetic": "/biː ˈkeəfl/",
+    "meaning": "Hati-hati",
+    "audio_file": "be_careful.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "Help!",
+    "phonetic": "/hɛlp/",
+    "meaning": "Tolong!",
+    "audio_file": "help.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "Stop!",
+    "phonetic": "/stɒp/",
+    "meaning": "Berhenti!",
+    "audio_file": "stop.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "I need a doctor",
+    "phonetic": "/aɪ niːd ə ˈdɒktə/",
+    "meaning": "Saya butuh dokter",
+    "audio_file": "i_need_a_doctor.mp3",
+    "category": "emergency"
+  },
+  {
+    "word": "Do you speak English?",
+    "phonetic": "/duː juː spiːk ˈɪŋɡlɪʃ/",
+    "meaning": "Apakah kamu bisa berbahasa Inggris?",
+    "audio_file": "do_you_speak_english.mp3",
+    "category": "questions"
+  },
+  {
+    "word": "I don't speak English",
+    "phonetic": "/aɪ doʊnt spiːk ˈɪŋɡlɪʃ/",
+    "meaning": "Saya tidak bisa berbahasa Inggris",
+    "audio_file": "i_dont_speak_english.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "How much is this?",
+    "phonetic": "/haʊ mʌtʃ ɪz ðɪs/",
+    "meaning": "Berapa harganya?",
+    "audio_file": "how_much_is_this.mp3",
+    "category": "questions"
+  },
+  {
+    "word": "I would like to buy this",
+    "phonetic": "/aɪ wʊd laɪk tuː baɪ ðɪs/",
+    "meaning": "Saya ingin membeli ini",
+    "audio_file": "i_would_like_to_buy_this.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "Can I pay with card?",
+    "phonetic": "/kæn aɪ peɪ wɪð kɑːd/",
+    "meaning": "Bisakah saya membayar dengan kartu?",
+    "audio_file": "can_i_pay_with_card.mp3",
+    "category": "questions"
+  },
+  {
+    "word": "Where is the hotel?",
+    "phonetic": "/wɛər ɪz ðə həʊˈtɛl/",
+    "meaning": "Di mana hotelnya?",
+    "audio_file": "where_is_the_hotel.mp3",
+    "category": "questions"
+  },
+  {
+    "word": "I have a reservation",
+    "phonetic": "/aɪ hæv ə ˌrɛzəˈveɪʃən/",
+    "meaning": "Saya punya reservasi",
+    "audio_file": "i_have_a_reservation.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "Enjoy your meal",
+    "phonetic": "/ɪnˈdʒɔɪ jɔːr miːl/",
+    "meaning": "Selamat menikmati makanan",
+    "audio_file": "enjoy_your_meal.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "Bon appétit",
+    "phonetic": "/ˌbɒn æpəˈtiː/",
+    "meaning": "Selamat makan",
+    "audio_file": "bon_appetit.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "Can I have the menu?",
+    "phonetic": "/kæn aɪ hæv ðə ˈmɛnjuː/",
+    "meaning": "Boleh saya minta menu?",
+    "audio_file": "can_i_have_the_menu.mp3",
+    "category": "questions"
+  },
+  {
+    "word": "Water, please",
+    "phonetic": "/ˈwɔːtər, pliːz/",
+    "meaning": "Air, tolong",
+    "audio_file": "water_please.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "I’m tired",
+    "phonetic": "/aɪm ˈtaɪəd/",
+    "meaning": "Saya lelah",
+    "audio_file": "im_tired.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "Excuse me",
+    "phonetic": "/ɪkˈskjuːz miː/",
+    "meaning": "Permisi",
+    "audio_file": "excuse_me.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "Bless you",
+    "phonetic": "/blɛs juː/",
+    "meaning": "Semoga sehat selalu (saat seseorang bersin)",
+    "audio_file": "bless_you.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "What is this?",
+    "phonetic": "/wɒt ɪz ðɪs/",
+    "meaning": "Apa ini?",
+    "audio_file": "what_is_this.mp3",
+    "category": "questions"
+  },
+  {
+    "word": "This is delicious",
+    "phonetic": "/ðɪs ɪz dɪˈlɪʃəs/",
+    "meaning": "Ini enak sekali",
+    "audio_file": "this_is_delicious.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "I’m full",
+    "phonetic": "/aɪm fʊl/",
+    "meaning": "Saya kenyang",
+    "audio_file": "im_full.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "Where are you from?",
+    "phonetic": "/wɛər ɑː juː frɒm/",
+    "meaning": "Kamu berasal dari mana?",
+    "audio_file": "where_are_you_from.mp3",
+    "category": "questions"
+  },
+  {
+    "word": "I’m from Indonesia",
+    "phonetic": "/aɪm frɒm ˌɪndəˈniːʒə/",
+    "meaning": "Saya dari Indonesia",
+    "audio_file": "im_from_indonesia.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "Let’s go!",
+    "phonetic": "/lɛts ɡəʊ/",
+    "meaning": "Ayo pergi!",
+    "audio_file": "lets_go.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "Call the police",
+    "phonetic": "/kɔːl ðə pəˈliːs/",
+    "meaning": "Panggil polisi",
+    "audio_file": "call_the_police.mp3",
+    "category": "emergency"
+  },
+  {
+    "word": "I need help",
+    "phonetic": "/aɪ niːd hɛlp/",
+    "meaning": "Saya butuh bantuan",
+    "audio_file": "i_need_help.mp3",
+    "category": "emergency"
+  },
+  {
+    "word": "Where is the bathroom?",
+    "phonetic": "/wɛər ɪz ðə ˈbɑːθruːm/",
+    "meaning": "Di mana kamar mandi?",
+    "audio_file": "where_is_the_bathroom.mp3",
+    "category": "questions"
+  },
+  {
+    "word": "I’m lost",
+    "phonetic": "/aɪm lɒst/",
+    "meaning": "Saya tersesat",
+    "audio_file": "im_lost.mp3",
+    "category": "emergency"
+  },
+  {
+    "word": "I’m sick",
+    "phonetic": "/aɪm sɪk/",
+    "meaning": "Saya sakit",
+    "audio_file": "im_sick.mp3",
+    "category": "emergency"
+  },
+  {
+    "word": "I need a doctor",
+    "phonetic": "/aɪ niːd ə ˈdɒktə/",
+    "meaning": "Saya butuh dokter",
+    "audio_file": "i_need_a_doctor.mp3",
+    "category": "emergency"
+  },
+  {
+    "word": "I’m allergic to peanuts",
+    "phonetic": "/aɪm əˈlɜːdʒɪk tuː ˈpiːnʌts/",
+    "meaning": "Saya alergi kacang",
+    "audio_file": "im_allergic_to_peanuts.mp3",
+    "category": "emergency"
+  },
+  {
+    "word": "Help!",
+    "phonetic": "/hɛlp/",
+    "meaning": "Tolong!",
+    "audio_file": "help.mp3",
+    "category": "emergency"
+  },
+  {
+    "word": "Fire!",
+    "phonetic": "/ˈfaɪə/",
+    "meaning": "Kebakaran!",
+    "audio_file": "fire.mp3",
+    "category": "emergency"
+  },
+  {
+    "word": "Stop!",
+    "phonetic": "/stɒp/",
+    "meaning": "Berhenti!",
+    "audio_file": "stop.mp3",
+    "category": "emergency"
+  },
+  {
+    "word": "Do you understand?",
+    "phonetic": "/duː juː ˌʌndəˈstænd/",
+    "meaning": "Apakah kamu mengerti?",
+    "audio_file": "do_you_understand.mp3",
+    "category": "questions"
+  },
+  {
+    "word": "Yes, I understand",
+    "phonetic": "/jɛs aɪ ˌʌndəˈstænd/",
+    "meaning": "Ya, saya mengerti",
+    "audio_file": "yes_i_understand.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "No, I don’t understand",
+    "phonetic": "/nəʊ aɪ dəʊnt ˌʌndəˈstænd/",
+    "meaning": "Tidak, saya tidak mengerti",
+    "audio_file": "no_i_dont_understand.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "Can you repeat that?",
+    "phonetic": "/kæn juː rɪˈpiːt ðæt/",
+    "meaning": "Bisa diulangi?",
+    "audio_file": "can_you_repeat_that.mp3",
+    "category": "questions"
+  },
+  {
+    "word": "What time is it?",
+    "phonetic": "/wɒt taɪm ɪz ɪt/",
+    "meaning": "Jam berapa sekarang?",
+    "audio_file": "what_time_is_it.mp3",
+    "category": "questions"
+  },
+  {
+    "word": "It’s three o’clock",
+    "phonetic": "/ɪts θriː əˈklɒk/",
+    "meaning": "Sekarang jam tiga",
+    "audio_file": "its_three_oclock.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "See you later",
+    "phonetic": "/siː juː ˈleɪtə/",
+    "meaning": "Sampai jumpa",
+    "audio_file": "see_you_later.mp3",
+    "category": "greetings"
+  },
+  {
+    "word": "Take care",
+    "phonetic": "/teɪk keə/",
+    "meaning": "Hati-hati ya",
+    "audio_file": "take_care.mp3",
+    "category": "greetings"
+  },
+  {
+    "word": "Welcome",
+    "phonetic": "/ˈwɛlkəm/",
+    "meaning": "Selamat datang",
+    "audio_file": "welcome.mp3",
+    "category": "greetings"
+  },
+  {
+    "word": "Have a nice day",
+    "phonetic": "/hæv ə naɪs deɪ/",
+    "meaning": "Semoga harimu menyenangkan",
+    "audio_file": "have_a_nice_day.mp3",
+    "category": "greetings"
+  },
+  {
+    "word": "Where is the hotel?",
+    "phonetic": "/wɛər ɪz ðə həʊˈtɛl/",
+    "meaning": "Di mana hotelnya?",
+    "audio_file": "where_is_the_hotel.mp3",
+    "category": "travel"
+  },
+  {
+    "word": "I have a reservation",
+    "phonetic": "/aɪ hæv ə ˌrɛzəˈveɪʃən/",
+    "meaning": "Saya punya reservasi",
+    "audio_file": "i_have_a_reservation.mp3",
+    "category": "travel"
+  },
+  {
+    "word": "How much is it?",
+    "phonetic": "/haʊ mʌʧ ɪz ɪt/",
+    "meaning": "Berapa harganya?",
+    "audio_file": "how_much_is_it.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "It’s too expensive",
+    "phonetic": "/ɪts tuː ɪkˈspɛnsɪv/",
+    "meaning": "Itu terlalu mahal",
+    "audio_file": "its_too_expensive.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I try it on?",
+    "phonetic": "/kæn aɪ traɪ ɪt ɒn/",
+    "meaning": "Boleh saya coba dulu?",
+    "audio_file": "can_i_try_it_on.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "I’ll take it",
+    "phonetic": "/aɪl teɪk ɪt/",
+    "meaning": "Saya ambil yang ini",
+    "audio_file": "ill_take_it.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Where can I buy a ticket?",
+    "phonetic": "/wɛər kæn aɪ baɪ ə ˈtɪkɪt/",
+    "meaning": "Di mana saya bisa beli tiket?",
+    "audio_file": "where_can_i_buy_a_ticket.mp3",
+    "category": "travel"
+  },
+  {
+    "word": "What time does it leave?",
+    "phonetic": "/wɒt taɪm dʌz ɪt liːv/",
+    "meaning": "Jam berapa keberangkatannya?",
+    "audio_file": "what_time_does_it_leave.mp3",
+    "category": "travel"
+  },
+  {
+    "word": "One ticket, please",
+    "phonetic": "/wʌn ˈtɪkɪt pliːz/",
+    "meaning": "Satu tiket, tolong",
+    "audio_file": "one_ticket_please.mp3",
+    "category": "travel"
+  },
+  {
+    "word": "Do you speak English?",
+    "phonetic": "/duː juː spiːk ˈɪŋɡlɪʃ/",
+    "meaning": "Apakah kamu bisa berbahasa Inggris?",
+    "audio_file": "do_you_speak_english.mp3",
+    "category": "questions"
+  },
+  {
+    "word": "I don’t speak English well",
+    "phonetic": "/aɪ dəʊnt spiːk ˈɪŋɡlɪʃ wɛl/",
+    "meaning": "Saya tidak terlalu bisa bahasa Inggris",
+    "audio_file": "i_dont_speak_english_well.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "Can you help me?",
+    "phonetic": "/kæn juː hɛlp miː/",
+    "meaning": "Bisakah kamu membantu saya?",
+    "audio_file": "can_you_help_me.mp3",
+    "category": "questions"
+  },
+  {
+    "word": "I’m looking for this address",
+    "phonetic": "/aɪm ˈlʊkɪŋ fɔː ðɪs əˈdrɛs/",
+    "meaning": "Saya mencari alamat ini",
+    "audio_file": "im_looking_for_this_address.mp3",
+    "category": "travel"
+  },
+  {
+    "word": "Turn left",
+    "phonetic": "/tɜːn lɛft/",
+    "meaning": "Belok kiri",
+    "audio_file": "turn_left.mp3",
+    "category": "directions"
+  },
+  {
+    "word": "Turn right",
+    "phonetic": "/tɜːn raɪt/",
+    "meaning": "Belok kanan",
+    "audio_file": "turn_right.mp3",
+    "category": "directions"
+  },
+  {
+    "word": "Go straight",
+    "phonetic": "/ɡəʊ streɪt/",
+    "meaning": "Lurus terus",
+    "audio_file": "go_straight.mp3",
+    "category": "directions"
+  },
+  {
+    "word": "Where is the nearest hospital?",
+    "phonetic": "/wɛər ɪz ðə ˈnɪərɪst ˈhɒspɪtl/",
+    "meaning": "Di mana rumah sakit terdekat?",
+    "audio_file": "where_is_the_nearest_hospital.mp3",
+    "category": "emergency"
+  },
+  {
+    "word": "I need a taxi",
+    "phonetic": "/aɪ niːd ə ˈtæksi/",
+    "meaning": "Saya butuh taksi",
+    "audio_file": "i_need_a_taxi.mp3",
+    "category": "travel"
+  },
+  {
+    "word": "Can I pay by card?",
+    "phonetic": "/kæn aɪ peɪ baɪ kɑːd/",
+    "meaning": "Bisa bayar pakai kartu?",
+    "audio_file": "can_i_pay_by_card.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "I only have cash",
+    "phonetic": "/aɪ ˈəʊnli hæv kæʃ/",
+    "meaning": "Saya hanya punya uang tunai",
+    "audio_file": "i_only_have_cash.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "How do I get to the airport?",
+    "phonetic": "/haʊ duː aɪ ɡɛt tuː ði ˈɛəpɔːt/",
+    "meaning": "Bagaimana cara saya ke bandara?",
+    "audio_file": "how_do_i_get_to_the_airport.mp3",
+    "category": "travel"
+  },
+  {
+    "word": "Where can I get a taxi?",
+    "phonetic": "/wɛər kæn aɪ ɡɛt ə ˈtæksi/",
+    "meaning": "Di mana saya bisa mendapatkan taksi?",
+    "audio_file": "where_can_i_get_a_taxi.mp3",
+    "category": "travel"
+  },
+  {
+    "word": "I’m going to the airport",
+    "phonetic": "/aɪm ˈɡəʊɪŋ tuː ði ˈɛəpɔːt/",
+    "meaning": "Saya akan ke bandara",
+    "audio_file": "im_going_to_the_airport.mp3",
+    "category": "travel"
+  },
+  {
+    "word": "Is it far from here?",
+    "phonetic": "/ɪz ɪt fɑːr frɒm hɪər/",
+    "meaning": "Apakah itu jauh dari sini?",
+    "audio_file": "is_it_far_from_here.mp3",
+    "category": "directions"
+  },
+  {
+    "word": "Turn around",
+    "phonetic": "/tɜːn əˈraʊnd/",
+    "meaning": "Putar balik",
+    "audio_file": "turn_around.mp3",
+    "category": "directions"
+  },
+  {
+    "word": "Can I have the bill, please?",
+    "phonetic": "/kæn aɪ hæv ðə bɪl pliːz/",
+    "meaning": "Boleh minta tagihannya?",
+    "audio_file": "can_i_have_the_bill_please.mp3",
+    "category": "restaurant"
+  },
+  {
+    "word": "I’m a vegetarian",
+    "phonetic": "/aɪm ə ˌvɛdʒɪˈteəɹɪən/",
+    "meaning": "Saya seorang vegetarian",
+    "audio_file": "im_a_vegetarian.mp3",
+    "category": "restaurant"
+  },
+  {
+    "word": "Can I get a menu?",
+    "phonetic": "/kæn aɪ ɡɛt ə ˈmɛnjuː/",
+    "meaning": "Boleh minta menu?",
+    "audio_file": "can_i_get_a_menu.mp3",
+    "category": "restaurant"
+  },
+  {
+    "word": "Is this dish spicy?",
+    "phonetic": "/ɪz ðɪs dɪʃ ˈspaɪsi/",
+    "meaning": "Apakah hidangan ini pedas?",
+    "audio_file": "is_this_dish_spicy.mp3",
+    "category": "restaurant"
+  },
+  {
+    "word": "I’m allergic to nuts",
+    "phonetic": "/aɪm əˈlɜːdʒɪk tuː nʌts/",
+    "meaning": "Saya alergi kacang",
+    "audio_file": "im_allergic_to_nuts.mp3",
+    "category": "restaurant"
+  },
+  {
+    "word": "Can you recommend something?",
+    "phonetic": "/kæn juː ˌrɛkəˈmɛnd ˈsʌmθɪŋ/",
+    "meaning": "Bisa rekomendasikan sesuatu?",
+    "audio_file": "can_you_recommend_something.mp3",
+    "category": "restaurant"
+  },
+  {
+    "word": "How much is the tip?",
+    "phonetic": "/haʊ mʌʧ ɪz ðə tɪp/",
+    "meaning": "Berapa tipnya?",
+    "audio_file": "how_much_is_the_tip.mp3",
+    "category": "restaurant"
+  },
+  {
+    "word": "Do you have a vegetarian option?",
+    "phonetic": "/duː juː hæv ə ˌvɛdʒɪˈteəɹɪən ˈɒpʃən/",
+    "meaning": "Apakah ada pilihan vegetarian?",
+    "audio_file": "do_you_have_a_vegetarian_option.mp3",
+    "category": "restaurant"
+  },
+  {
+    "word": "I’m full",
+    "phonetic": "/aɪm fʊl/",
+    "meaning": "Saya kenyang",
+    "audio_file": "im_full.mp3",
+    "category": "restaurant"
+  },
+  {
+    "word": "Can I have a glass of water?",
+    "phonetic": "/kæn aɪ hæv ə ɡlɑːs ɒv ˈwɔːtə/",
+    "meaning": "Boleh minta segelas air?",
+    "audio_file": "can_i_have_a_glass_of_water.mp3",
+    "category": "restaurant"
+  },
+  {
+    "word": "I’ll have the same",
+    "phonetic": "/aɪl hæv ðə seɪm/",
+    "meaning": "Saya akan ambil yang sama",
+    "audio_file": "ill_have_the_same.mp3",
+    "category": "restaurant"
+  },
+  {
+    "word": "Could I have the check, please?",
+    "phonetic": "/kʊd aɪ hæv ðə tʃɛk pliːz/",
+    "meaning": "Bolehkah saya minta struk?",
+    "audio_file": "could_i_have_the_check_please.mp3",
+    "category": "restaurant"
+  },
+  {
+    "word": "I’m just looking",
+    "phonetic": "/aɪm dʒʌst ˈlʊkɪŋ/",
+    "meaning": "Saya hanya melihat-lihat",
+    "audio_file": "im_just_looking.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I help you?",
+    "phonetic": "/kæn aɪ hɛlp juː/",
+    "meaning": "Bisa saya bantu?",
+    "audio_file": "can_i_help_you.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "How much is this?",
+    "phonetic": "/haʊ mʌʧ ɪz ðɪs/",
+    "meaning": "Berapa harganya ini?",
+    "audio_file": "how_much_is_this.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you have this in a different size?",
+    "phonetic": "/duː juː hæv ðɪs ɪn ə ˈdɪfrənt saɪz/",
+    "meaning": "Apakah Anda memiliki ini dalam ukuran lain?",
+    "audio_file": "do_you_have_this_in_a_different_size.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "I’m just browsing",
+    "phonetic": "/aɪm dʒʌst ˈbraʊzɪŋ/",
+    "meaning": "Saya hanya melihat-lihat",
+    "audio_file": "im_just_browsing.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Is there a discount?",
+    "phonetic": "/ɪz ðɛə ə ˈdɪskaʊnt/",
+    "meaning": "Apakah ada diskon?",
+    "audio_file": "is_there_a_discount.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "I’ll take it",
+    "phonetic": "/aɪl teɪk ɪt/",
+    "meaning": "Saya akan ambil itu",
+    "audio_file": "ill_take_it.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you accept credit cards?",
+    "phonetic": "/duː juː əkˈsɛpt ˈkrɛdɪt kɑːdz/",
+    "meaning": "Apakah Anda menerima kartu kredit?",
+    "audio_file": "do_you_accept_credit_cards.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Where is the fitting room?",
+    "phonetic": "/wɛə ɪz ðə ˈfɪtɪŋ ruːm/",
+    "meaning": "Di mana ruang ganti?",
+    "audio_file": "where_is_the_fitting_room.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I try it on?",
+    "phonetic": "/kæn aɪ traɪ ɪt ɒn/",
+    "meaning": "Bolehkah saya mencoba ini?",
+    "audio_file": "can_i_try_it_on.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Is this on sale?",
+    "phonetic": "/ɪz ðɪs ɒn seɪl/",
+    "meaning": "Apakah ini sedang diskon?",
+    "audio_file": "is_this_on_sale.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can you gift wrap it?",
+    "phonetic": "/kæn juː ɡɪft ræp ɪt/",
+    "meaning": "Bisa Anda membungkusnya sebagai hadiah?",
+    "audio_file": "can_you_gift_wrap_it.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "What time does the store close?",
+    "phonetic": "/wɒt taɪm dʌz ðə stɔːr kləʊz/",
+    "meaning": "Pukul berapa toko tutup?",
+    "audio_file": "what_time_does_the_store_close.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can you help me find this?",
+    "phonetic": "/kæn juː hɛlp miː faɪnd ðɪs/",
+    "meaning": "Bisa bantu saya mencari ini?",
+    "audio_file": "can_you_help_me_find_this.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Is there a return policy?",
+    "phonetic": "/ɪz ðɛə ə rɪˈtɜːn ˈpɒlɪsi/",
+    "meaning": "Apakah ada kebijakan pengembalian barang?",
+    "audio_file": "is_there_a_return_policy.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "I’d like to make a return",
+    "phonetic": "/aɪd laɪk tə meɪk ə rɪˈtɜːn/",
+    "meaning": "Saya ingin melakukan pengembalian",
+    "audio_file": "id_like_to_make_a_return.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you have a loyalty card?",
+    "phonetic": "/duː juː hæv ə ˈlɔɪəlti kɑːd/",
+    "meaning": "Apakah Anda memiliki kartu loyalitas?",
+    "audio_file": "do_you_have_a_loyalty_card.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "I’m just window shopping",
+    "phonetic": "/aɪm dʒʌst ˈwɪndəʊ ˈʃɒpɪŋ/",
+    "meaning": "Saya hanya melihat etalase",
+    "audio_file": "im_just_window_shopping.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "I’ll come back later",
+    "phonetic": "/aɪl kʌm bæk ˈleɪtə/",
+    "meaning": "Saya akan kembali nanti",
+    "audio_file": "ill_come_back_later.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I get a receipt?",
+    "phonetic": "/kæn aɪ ɡɛt ə rɪˈsiːt/",
+    "meaning": "Boleh minta struk?",
+    "audio_file": "can_i_get_a_receipt.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "This is too expensive",
+    "phonetic": "/ðɪs ɪz tuː ɪksˈpɛnsɪv/",
+    "meaning": "Ini terlalu mahal",
+    "audio_file": "this_is_too_expensive.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you have it in another color?",
+    "phonetic": "/duː juː hæv ɪt ɪn əˈnʌðər ˈkʌlər/",
+    "meaning": "Apakah Anda punya ini dengan warna lain?",
+    "audio_file": "do_you_have_it_in_another_color.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "How do I pay?",
+    "phonetic": "/haʊ duː aɪ peɪ/",
+    "meaning": "Bagaimana cara saya membayar?",
+    "audio_file": "how_do_i_pay.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I have a bag?",
+    "phonetic": "/kæn aɪ hæv ə bæg/",
+    "meaning": "Boleh saya minta tas?",
+    "audio_file": "can_i_have_a_bag.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you offer free delivery?",
+    "phonetic": "/duː juː ˈɒfə friː dɪˈlɪvəri/",
+    "meaning": "Apakah Anda menawarkan pengiriman gratis?",
+    "audio_file": "do_you_offer_free_delivery.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "How much is this?",
+    "phonetic": "/haʊ mʌʧ ɪz ðɪs/",
+    "meaning": "Berapa harga ini?",
+    "audio_file": "how_much_is_this.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Is there an exchange policy?",
+    "phonetic": "/ɪz ðɛə ən ɪksˈtʃeɪndʒ ˈpɒlɪsi/",
+    "meaning": "Apakah ada kebijakan penukaran barang?",
+    "audio_file": "is_there_an_exchange_policy.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "What is your return policy?",
+    "phonetic": "/wɒt ɪz jɔː rɪˈtɜːn ˈpɒlɪsi/",
+    "meaning": "Apa kebijakan pengembalian barang Anda?",
+    "audio_file": "what_is_your_return_policy.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Where is the checkout counter?",
+    "phonetic": "/wɛə ɪz ðə ˈʧɛkaʊt ˈkaʊntə/",
+    "meaning": "Di mana kasir?",
+    "audio_file": "where_is_the_checkout_counter.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "I would like to exchange this",
+    "phonetic": "/aɪ wʊd laɪk tə ɪksˈʧeɪndʒ ðɪs/",
+    "meaning": "Saya ingin menukarkan ini",
+    "audio_file": "i_would_like_to_exchange_this.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you offer a warranty?",
+    "phonetic": "/duː juː ˈɒfə ə ˈwɔːrənti/",
+    "meaning": "Apakah Anda menawarkan garansi?",
+    "audio_file": "do_you_offer_a_warranty.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I get a refund?",
+    "phonetic": "/kæn aɪ ɡɛt ə ˈrɪfʌnd/",
+    "meaning": "Bolehkah saya mendapatkan pengembalian uang?",
+    "audio_file": "can_i_get_a_refund.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you have any sales assistants?",
+    "phonetic": "/duː juː hæv ˈɛni seɪlz əˈsɪstənts/",
+    "meaning": "Apakah ada asisten penjualan?",
+    "audio_file": "do_you_have_any_sales_assistants.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can you recommend something?",
+    "phonetic": "/kæn juː rɪˈkəʊmɛnd ˈsʌmθɪŋ/",
+    "meaning": "Bisakah Anda merekomendasikan sesuatu?",
+    "audio_file": "can_you_recommend_something.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "What size is this?",
+    "phonetic": "/wɒt saɪz ɪz ðɪs/",
+    "meaning": "Ukuran apa ini?",
+    "audio_file": "what_size_is_this.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you have a fitting room?",
+    "phonetic": "/duː juː hæv ə ˈfɪtɪŋ ruːm/",
+    "meaning": "Apakah ada ruang ganti?",
+    "audio_file": "do_you_have_a_fitting_room.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I pay by cash?",
+    "phonetic": "/kæn aɪ peɪ baɪ kæʃ/",
+    "meaning": "Bolehkah saya membayar dengan uang tunai?",
+    "audio_file": "can_i_pay_by_cash.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you offer gift wrapping?",
+    "phonetic": "/duː juː ˈɒfə ɡɪft ˈræpɪŋ/",
+    "meaning": "Apakah Anda menawarkan pembungkus hadiah?",
+    "audio_file": "do_you_offer_gift_wrapping.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Where is the exit?",
+    "phonetic": "/wɛə ɪz ðə ˈɛksɪt/",
+    "meaning": "Di mana keluar?",
+    "audio_file": "where_is_the_exit.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you have a smaller size?",
+    "phonetic": "/duː juː hæv ə ˈsmɔːlər saɪz/",
+    "meaning": "Apakah Anda memiliki ukuran lebih kecil?",
+    "audio_file": "do_you_have_a_smaller_size.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "I need help",
+    "phonetic": "/aɪ niːd hɛlp/",
+    "meaning": "Saya membutuhkan bantuan",
+    "audio_file": "i_need_help.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I get this gift wrapped?",
+    "phonetic": "/kæn aɪ ɡɛt ðɪs ɡɪft ræpt/",
+    "meaning": "Bolehkah saya meminta ini dibungkus hadiah?",
+    "audio_file": "can_i_get_this_gift_wrapped.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I try this on?",
+    "phonetic": "/kæn aɪ traɪ ðɪs ɒn/",
+    "meaning": "Bolehkah saya mencoba ini?",
+    "audio_file": "can_i_try_this_on.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you have a loyalty program?",
+    "phonetic": "/duː juː hæv ə ˈlɔɪəlti ˈprəʊɡræm/",
+    "meaning": "Apakah Anda memiliki program loyalitas?",
+    "audio_file": "do_you_have_a_loyalty_program.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I pay with a credit card?",
+    "phonetic": "/kæn aɪ peɪ wɪð ə ˈkrɛdɪt kɑːd/",
+    "meaning": "Bolehkah saya membayar dengan kartu kredit?",
+    "audio_file": "can_i_pay_with_a_credit_card.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you have this in other colors?",
+    "phonetic": "/duː juː hæv ðɪs ɪn ˈʌðə ˈkʌlərz/",
+    "meaning": "Apakah Anda memiliki ini dalam warna lain?",
+    "audio_file": "do_you_have_this_in_other_colors.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "How long is the warranty?",
+    "phonetic": "/haʊ lɒŋ ɪz ðə ˈwɔːrənti/",
+    "meaning": "Berapa lama garansinya?",
+    "audio_file": "how_long_is_the_warranty.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I get this gift wrapped?",
+    "phonetic": "/kæn aɪ ɡɛt ðɪs ɡɪft ræpt/",
+    "meaning": "Bolehkah saya meminta ini dibungkus hadiah?",
+    "audio_file": "can_i_get_this_gift_wrapped.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Is this item in stock?",
+    "phonetic": "/ɪz ðɪs ˈaɪtəm ɪn stɒk/",
+    "meaning": "Apakah barang ini tersedia?",
+    "audio_file": "is_this_item_in_stock.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you offer a discount?",
+    "phonetic": "/duː juː ˈɒfə ə ˈdɪskaʊnt/",
+    "meaning": "Apakah Anda menawarkan diskon?",
+    "audio_file": "do_you_offer_a_discount.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Where can I find this item?",
+    "phonetic": "/wɛə kæn aɪ faɪnd ðɪs ˈaɪtəm/",
+    "meaning": "Di mana saya bisa menemukan barang ini?",
+    "audio_file": "where_can_i_find_this_item.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I return this item?",
+    "phonetic": "/kæn aɪ rɪˈtɜːn ðɪs ˈaɪtəm/",
+    "meaning": "Bolehkah saya mengembalikan barang ini?",
+    "audio_file": "can_i_return_this_item.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "How do I use this?",
+    "phonetic": "/haʊ duː aɪ juːz ðɪs/",
+    "meaning": "Bagaimana cara menggunakan ini?",
+    "audio_file": "how_do_i_use_this.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "What time do you close?",
+    "phonetic": "/wɒt taɪm duː juː kləʊz/",
+    "meaning": "Jam berapa Anda tutup?",
+    "audio_file": "what_time_do_you_close.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Are there any promotions?",
+    "phonetic": "/ɑː ðɛə ˈɛni prəˈməʊʃənz/",
+    "meaning": "Apakah ada promosi?",
+    "audio_file": "are_there_any_promotions.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I pay in installments?",
+    "phonetic": "/kæn aɪ peɪ ɪn ɪnˈstɔːlmənts/",
+    "meaning": "Bolehkah saya membayar dengan cicilan?",
+    "audio_file": "can_i_pay_in_installments.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you accept returns?",
+    "phonetic": "/duː juː ækˈsɛpt rɪˈtɜːnz/",
+    "meaning": "Apakah Anda menerima pengembalian barang?",
+    "audio_file": "do_you_accept_returns.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Is this on sale?",
+    "phonetic": "/ɪz ðɪs ɒn seɪl/",
+    "meaning": "Apakah ini sedang diskon?",
+    "audio_file": "is_this_on_sale.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "How do I assemble this?",
+    "phonetic": "/haʊ duː aɪ əˈsɛmbəl ðɪs/",
+    "meaning": "Bagaimana cara merakit ini?",
+    "audio_file": "how_do_i_assemble_this.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I get a bag for this?",
+    "phonetic": "/kæn aɪ ɡɛt ə bæg fɔː ðɪs/",
+    "meaning": "Bolehkah saya mendapatkan tas untuk ini?",
+    "audio_file": "can_i_get_a_bag_for_this.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you have this in stock?",
+    "phonetic": "/duː juː hæv ðɪs ɪn stɒk/",
+    "meaning": "Apakah Anda memiliki ini di stok?",
+    "audio_file": "do_you_have_this_in_stock.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I get this in another color?",
+    "phonetic": "/kæn aɪ ɡɛt ðɪs ɪn əˈnʌðə ˈkʌlə/",
+    "meaning": "Bolehkah saya mendapatkan ini dalam warna lain?",
+    "audio_file": "can_i_get_this_in_another_color.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I get a refund?",
+    "phonetic": "/kæn aɪ ɡɛt ə ˈrɪfʌnd/",
+    "meaning": "Bolehkah saya mendapatkan pengembalian uang?",
+    "audio_file": "can_i_get_a_refund.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you have this in a smaller size?",
+    "phonetic": "/duː juː hæv ðɪs ɪn ə ˈsmɔːlər saɪz/",
+    "meaning": "Apakah Anda memiliki ini dalam ukuran lebih kecil?",
+    "audio_file": "do_you_have_this_in_a_smaller_size.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "How much is this?",
+    "phonetic": "/haʊ mʌʧ ɪz ðɪs/",
+    "meaning": "Berapa harga ini?",
+    "audio_file": "how_much_is_this.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "What is the price?",
+    "phonetic": "/wɒt ɪz ðə praɪs/",
+    "meaning": "Berapa harga?",
+    "audio_file": "what_is_the_price.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I get a discount on this?",
+    "phonetic": "/kæn aɪ ɡɛt ə ˈdɪskaʊnt ɒn ðɪs/",
+    "meaning": "Bolehkah saya mendapatkan diskon untuk ini?",
+    "audio_file": "can_i_get_a_discount_on_this.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you have a gift card?",
+    "phonetic": "/duː juː hæv ə ɡɪft kɑːd/",
+    "meaning": "Apakah Anda memiliki kartu hadiah?",
+    "audio_file": "do_you_have_a_gift_card.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can you wrap this for me?",
+    "phonetic": "/kæn juː ræp ðɪs fɔːr miː/",
+    "meaning": "Bisakah Anda membungkus ini untuk saya?",
+    "audio_file": "can_you_wrap_this_for_me.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Is there a warranty on this?",
+    "phonetic": "/ɪz ðɛə ə ˈwɔːrənti ɒn ðɪs/",
+    "meaning": "Apakah ada garansi untuk ini?",
+    "audio_file": "is_there_a_warranty_on_this.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you have this in a different style?",
+    "phonetic": "/duː juː hæv ðɪs ɪn ə ˈdɪfrənt staɪl/",
+    "meaning": "Apakah Anda memiliki ini dalam gaya yang berbeda?",
+    "audio_file": "do_you_have_this_in_a_different_style.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "How do I assemble this item?",
+    "phonetic": "/haʊ duː aɪ əˈsɛmbəl ðɪs ˈaɪtəm/",
+    "meaning": "Bagaimana cara merakit barang ini?",
+    "audio_file": "how_do_i_assemble_this_item.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I pay with a mobile app?",
+    "phonetic": "/kæn aɪ peɪ wɪð ə ˈməʊbaɪl æp/",
+    "meaning": "Bolehkah saya membayar dengan aplikasi ponsel?",
+    "audio_file": "can_i_pay_with_a_mobile_app.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you offer free shipping?",
+    "phonetic": "/duː juː ˈɒfə friː ˈʃɪpɪŋ/",
+    "meaning": "Apakah Anda menawarkan pengiriman gratis?",
+    "audio_file": "do_you_offer_free_shipping.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I use this coupon?",
+    "phonetic": "/kæn aɪ juːz ðɪs ˈkuːpɒn/",
+    "meaning": "Bolehkah saya menggunakan kupon ini?",
+    "audio_file": "can_i_use_this_coupon.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Is this item refundable?",
+    "phonetic": "/ɪz ðɪs ˈaɪtəm rɪˈfʌndəbl/",
+    "meaning": "Apakah barang ini dapat dikembalikan?",
+    "audio_file": "is_this_item_refundable.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "How long does delivery take?",
+    "phonetic": "/haʊ lɒŋ dʌz dɪˈlɪvəri teɪk/",
+    "meaning": "Berapa lama waktu pengiriman?",
+    "audio_file": "how_long_does_delivery_take.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you have this in another size?",
+    "phonetic": "/duː juː hæv ðɪs ɪn əˈnʌðər saɪz/",
+    "meaning": "Apakah Anda memiliki ini dalam ukuran lain?",
+    "audio_file": "do_you_have_this_in_another_size.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I check out now?",
+    "phonetic": "/kæn aɪ tʃɛk aʊt naʊ/",
+    "meaning": "Bolehkah saya melakukan pembayaran sekarang?",
+    "audio_file": "can_i_check_out_now.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Is this available online?",
+    "phonetic": "/ɪz ðɪs əˈveɪləbl ˈɒnlaɪn/",
+    "meaning": "Apakah ini tersedia secara online?",
+    "audio_file": "is_this_available_online.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I get a receipt?",
+    "phonetic": "/kæn aɪ ɡɛt ə rɪˈsiːt/",
+    "meaning": "Bolehkah saya mendapatkan struk?",
+    "audio_file": "can_i_get_a_receipt.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "What is your return policy?",
+    "phonetic": "/wɒt ɪz jɔː rɪˈtɜːn ˈpɒlɪsi/",
+    "meaning": "Apa kebijakan pengembalian Anda?",
+    "audio_file": "what_is_your_return_policy.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I get this gift wrapped?",
+    "phonetic": "/kæn aɪ ɡɛt ðɪs ɡɪft ræpt/",
+    "meaning": "Bolehkah saya mendapatkan ini dibungkus hadiah?",
+    "audio_file": "can_i_get_this_gift_wrapped.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you offer any promotions?",
+    "phonetic": "/duː juː ˈɒfə ˈɛni prəˈməʊʃənz/",
+    "meaning": "Apakah Anda menawarkan promosi?",
+    "audio_file": "do_you_offer_any_promotions.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Is this item in stock?",
+    "phonetic": "/ɪz ðɪs ˈaɪtəm ɪn stɒk/",
+    "meaning": "Apakah barang ini tersedia di stok?",
+    "audio_file": "is_this_item_in_stock.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I get this delivered tomorrow?",
+    "phonetic": "/kæn aɪ ɡɛt ðɪs dɪˈlɪvəd təˈmɒrəʊ/",
+    "meaning": "Bolehkah saya mendapatkan ini dikirim besok?",
+    "audio_file": "can_i_get_this_delivered_tomorrow.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I see your catalog?",
+    "phonetic": "/kæn aɪ siː jɔːr ˈkætəlɒɡ/",
+    "meaning": "Bolehkah saya melihat katalog Anda?",
+    "audio_file": "can_i_see_your_catalog.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I reserve this item?",
+    "phonetic": "/kæn aɪ rɪˈzɜːv ðɪs ˈaɪtəm/",
+    "meaning": "Bolehkah saya memesan barang ini?",
+    "audio_file": "can_i_reserve_this_item.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you have a loyalty program?",
+    "phonetic": "/duː juː hæv ə ˈlɔɪəlti ˈprəʊɡræm/",
+    "meaning": "Apakah Anda memiliki program loyalitas?",
+    "audio_file": "do_you_have_a_loyalty_program.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I pay with PayPal?",
+    "phonetic": "/kæn aɪ peɪ wɪð ˈpeɪpæl/",
+    "meaning": "Bolehkah saya membayar dengan PayPal?",
+    "audio_file": "can_i_pay_with_paypal.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you offer free returns?",
+    "phonetic": "/duː juː ˈɒfə friː rɪˈtɜːnz/",
+    "meaning": "Apakah Anda menawarkan pengembalian gratis?",
+    "audio_file": "do_you_offer_free_returns.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I pay in installments?",
+    "phonetic": "/kæn aɪ peɪ ɪn ɪnˈstɔːlmənts/",
+    "meaning": "Bolehkah saya membayar dengan cicilan?",
+    "audio_file": "can_i_pay_in_installments.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "What is the best seller?",
+    "phonetic": "/wɒt ɪz ðə bɛst ˈsɛlər/",
+    "meaning": "Apa barang yang paling laris?",
+    "audio_file": "what_is_the_best_seller.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I use my store credit?",
+    "phonetic": "/kæn aɪ juːz maɪ stɔːr ˈkrɛdɪt/",
+    "meaning": "Bolehkah saya menggunakan kredit toko saya?",
+    "audio_file": "can_i_use_my_store_credit.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Is there a sale on this item?",
+    "phonetic": "/ɪz ðɛə ə seɪl ɒn ðɪs ˈaɪtəm/",
+    "meaning": "Apakah ada diskon untuk barang ini?",
+    "audio_file": "is_there_a_sale_on_this_item.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "How do I check my order status?",
+    "phonetic": "/haʊ duː aɪ tʃɛk maɪ ˈɔːdə ˈsteɪtəs/",
+    "meaning": "Bagaimana cara memeriksa status pesanan saya?",
+    "audio_file": "how_do_i_check_my_order_status.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I exchange this item?",
+    "phonetic": "/kæn aɪ ɪksˈtʃeɪndʒ ðɪs ˈaɪtəm/",
+    "meaning": "Bolehkah saya menukar barang ini?",
+    "audio_file": "can_i_exchange_this_item.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I get this delivered to my home?",
+    "phonetic": "/kæn aɪ ɡɛt ðɪs dɪˈlɪvəd tə maɪ həʊm/",
+    "meaning": "Bolehkah saya mendapatkan ini dikirim ke rumah saya?",
+    "audio_file": "can_i_get_this_delivered_to_my_home.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I get this without a receipt?",
+    "phonetic": "/kæn aɪ ɡɛt ðɪs wɪˈðaʊt ə rɪˈsiːt/",
+    "meaning": "Bolehkah saya mendapatkan ini tanpa struk?",
+    "audio_file": "can_i_get_this_without_a_receipt.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Is this product environmentally friendly?",
+    "phonetic": "/ɪz ðɪs ˈprɒdʌkt ɪnˌvaɪrənˈmɛntəli ˈfrɛndli/",
+    "meaning": "Apakah produk ini ramah lingkungan?",
+    "audio_file": "is_this_product_environmentally_friendly.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "What are the shipping options?",
+    "phonetic": "/wɒt ɑːr ðə ˈʃɪpɪŋ ˈɒpʃənz/",
+    "meaning": "Apa saja opsi pengiriman?",
+    "audio_file": "what_are_the_shipping_options.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you provide tracking numbers?",
+    "phonetic": "/duː juː prəˈvaɪd ˈtrækɪŋ ˈnʌmbəz/",
+    "meaning": "Apakah Anda menyediakan nomor pelacakan?",
+    "audio_file": "do_you_provide_tracking_numbers.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Is this item available for gift wrapping?",
+    "phonetic": "/ɪz ðɪs ˈaɪtəm əˈveɪləbl fɔːr ɡɪft ˈræpɪŋ/",
+    "meaning": "Apakah barang ini tersedia untuk dibungkus hadiah?",
+    "audio_file": "is_this_item_available_for_gift_wrapping.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Is there a discount for students?",
+    "phonetic": "/ɪz ðɛə ə ˈdɪskaʊnt fɔːr ˈstjuːdənts/",
+    "meaning": "Apakah ada diskon untuk pelajar?",
+    "audio_file": "is_there_a_discount_for_students.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I try this on?",
+    "phonetic": "/kæn aɪ traɪ ðɪs ɒn/",
+    "meaning": "Bolehkah saya mencoba ini?",
+    "audio_file": "can_i_try_this_on.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I have a refund?",
+    "phonetic": "/kæn aɪ hæv ə ˈrɪfʌnd/",
+    "meaning": "Bolehkah saya mendapatkan pengembalian uang?",
+    "audio_file": "can_i_have_a_refund.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Where can I find customer service?",
+    "phonetic": "/wɛə kæn aɪ faɪnd ˈkʌstəmə ˈsɜːvɪs/",
+    "meaning": "Di mana saya bisa menemukan layanan pelanggan?",
+    "audio_file": "where_can_i_find_customer_service.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "How do I cancel my order?",
+    "phonetic": "/haʊ duː aɪ ˈkænsəl maɪ ˈɔːdə/",
+    "meaning": "Bagaimana cara membatalkan pesanan saya?",
+    "audio_file": "how_do_i_cancel_my_order.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you have this in a different size?",
+    "phonetic": "/duː juː hæv ðɪs ɪn ə ˈdɪfrənt saɪz/",
+    "meaning": "Apakah Anda memiliki ini dalam ukuran yang berbeda?",
+    "audio_file": "do_you_have_this_in_a_different_size.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "What is your return policy?",
+    "phonetic": "/wɒt ɪz jɔːr rɪˈtɜːn ˈpɒlɪsi/",
+    "meaning": "Apa kebijakan pengembalian Anda?",
+    "audio_file": "what_is_your_return_policy.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you offer gift cards?",
+    "phonetic": "/duː juː ˈɒfə ɡɪft kɑːdz/",
+    "meaning": "Apakah Anda menawarkan kartu hadiah?",
+    "audio_file": "do_you_offer_gift_cards.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I get a gift receipt?",
+    "phonetic": "/kæn aɪ ɡɛt ə ɡɪft rɪˈsiːt/",
+    "meaning": "Bolehkah saya mendapatkan struk hadiah?",
+    "audio_file": "can_i_get_a_gift_receipt.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you offer free shipping?",
+    "phonetic": "/duː juː ˈɒfə friː ˈʃɪpɪŋ/",
+    "meaning": "Apakah Anda menawarkan pengiriman gratis?",
+    "audio_file": "do_you_offer_free_shipping.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "What is the warranty on this product?",
+    "phonetic": "/wɒt ɪz ðə ˈwɔːrənti ɒn ðɪs ˈprɒdʌkt/",
+    "meaning": "Apa garansi untuk produk ini?",
+    "audio_file": "what_is_the_warranty_on_this_product.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you have a catalog online?",
+    "phonetic": "/duː juː hæv ə ˈkætəlɒɡ ˈɒnlaɪn/",
+    "meaning": "Apakah Anda memiliki katalog online?",
+    "audio_file": "do_you_have_a_catalog_online.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Is there a minimum order requirement?",
+    "phonetic": "/ɪz ðɛə ə ˈmɪnɪməm ˈɔːdə rɪˈkwaɪəmənt/",
+    "meaning": "Apakah ada syarat minimal pesanan?",
+    "audio_file": "is_there_a_minimum_order_requirement.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "How long will it take to deliver?",
+    "phonetic": "/haʊ lɒŋ wɪl ɪt teɪk tə dɪˈlɪvə/",
+    "meaning": "Berapa lama waktu yang dibutuhkan untuk pengiriman?",
+    "audio_file": "how_long_will_it_take_to_deliver.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I pay by credit card?",
+    "phonetic": "/kæn aɪ peɪ baɪ ˈkrɛdɪt kɑːd/",
+    "meaning": "Bolehkah saya membayar dengan kartu kredit?",
+    "audio_file": "can_i_pay_by_credit_card.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I buy this online?",
+    "phonetic": "/kæn aɪ baɪ ðɪs ˈɒnlaɪn/",
+    "meaning": "Bolehkah saya membeli ini secara online?",
+    "audio_file": "can_i_buy_this_online.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you offer international shipping?",
+    "phonetic": "/duː juː ˈɒfə ˌɪntəˈnæʃənl ˈʃɪpɪŋ/",
+    "meaning": "Apakah Anda menawarkan pengiriman internasional?",
+    "audio_file": "do_you_offer_international_shipping.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "What sizes do you have?",
+    "phonetic": "/wɒt ˈsaɪzɪz duː juː hæv/",
+    "meaning": "Ukuran apa saja yang Anda miliki?",
+    "audio_file": "what_sizes_do_you_have.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you accept returns after 30 days?",
+    "phonetic": "/duː juː əkˈsɛpt rɪˈtɜːnz ˈɑːftə 30 deɪz/",
+    "meaning": "Apakah Anda menerima pengembalian setelah 30 hari?",
+    "audio_file": "do_you_accept_returns_after_30_days.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I get a price match?",
+    "phonetic": "/kæn aɪ ɡɛt ə praɪs mætʃ/",
+    "meaning": "Bolehkah saya mendapatkan pencocokan harga?",
+    "audio_file": "can_i_get_a_price_match.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you offer any discounts?",
+    "phonetic": "/duː juː ˈɒfə ˈɛni dɪsˈkaʊnts/",
+    "meaning": "Apakah Anda menawarkan diskon?",
+    "audio_file": "do_you_offer_any_discounts.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "What color is available?",
+    "phonetic": "/wɒt ˈkʌlə ɪz əˈveɪləbl/",
+    "meaning": "Warna apa yang tersedia?",
+    "audio_file": "what_color_is_available.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I get this delivered to my address?",
+    "phonetic": "/kæn aɪ ɡɛt ðɪs dɪˈlɪvəd tə maɪ əˈdrɛs/",
+    "meaning": "Bolehkah saya mendapatkan ini dikirim ke alamat saya?",
+    "audio_file": "can_i_get_this_delivered_to_my_address.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "How do I apply a coupon?",
+    "phonetic": "/haʊ duː aɪ əˈplaɪ ə ˈkuːpɒn/",
+    "meaning": "Bagaimana cara menggunakan kupon?",
+    "audio_file": "how_do_i_apply_a_coupon.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Is this item on sale?",
+    "phonetic": "/ɪz ðɪs ˈaɪtəm ɒn seɪl/",
+    "meaning": "Apakah barang ini sedang diskon?",
+    "audio_file": "is_this_item_on_sale.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I pay in installments?",
+    "phonetic": "/kæn aɪ peɪ ɪn ɪnˈstɔːlmənts/",
+    "meaning": "Bolehkah saya membayar dengan cicilan?",
+    "audio_file": "can_i_pay_in_installments.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you have a loyalty program?",
+    "phonetic": "/duː juː hæv ə ˈlɔɪəlti ˈprəʊɡræm/",
+    "meaning": "Apakah Anda memiliki program loyalitas?",
+    "audio_file": "do_you_have_a_loyalty_program.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I get this gift-wrapped?",
+    "phonetic": "/kæn aɪ ɡɛt ðɪs ɡɪft ræpt/",
+    "meaning": "Bolehkah saya mendapatkan ini dibungkus hadiah?",
+    "audio_file": "can_i_get_this_gift_wrapped.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "How can I contact customer support?",
+    "phonetic": "/haʊ kæn aɪ ˈkɒntækt ˈkʌstəmə səˈpɔːt/",
+    "meaning": "Bagaimana saya bisa menghubungi dukungan pelanggan?",
+    "audio_file": "how_can_i_contact_customer_support.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you offer a satisfaction guarantee?",
+    "phonetic": "/duː juː ˈɒfə ə ˌsætɪsˈfækʃən ɡærənˈtiː/",
+    "meaning": "Apakah Anda menawarkan jaminan kepuasan?",
+    "audio_file": "do_you_offer_a_satisfaction_guarantee.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I exchange this item?",
+    "phonetic": "/kæn aɪ ɪksˈtʃeɪndʒ ðɪs ˈaɪtəm/",
+    "meaning": "Bolehkah saya menukar barang ini?",
+    "audio_file": "can_i_exchange_this_item.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you offer express delivery?",
+    "phonetic": "/duː juː ˈɒfə ɪksˈprɛs dɪˈlɪvəri/",
+    "meaning": "Apakah Anda menawarkan pengiriman ekspres?",
+    "audio_file": "do_you_offer_express_delivery.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "How much is the shipping cost?",
+    "phonetic": "/haʊ mʌʧ ɪz ðə ˈʃɪpɪŋ kɒst/",
+    "meaning": "Berapa biaya pengirimannya?",
+    "audio_file": "how_much_is_the_shipping_cost.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I place an order over the phone?",
+    "phonetic": "/kæn aɪ pleɪs æn ˈɔːdə ˈəʊvə ðə fəʊn/",
+    "meaning": "Bolehkah saya melakukan pemesanan melalui telepon?",
+    "audio_file": "can_i_place_an_order_over_the_phone.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you have a clearance sale?",
+    "phonetic": "/duː juː hæv ə ˈklɪərəns seɪl/",
+    "meaning": "Apakah Anda memiliki diskon clearance?",
+    "audio_file": "do_you_have_a_clearance_sale.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Is there a minimum spend requirement?",
+    "phonetic": "/ɪz ðɛə ə ˈmɪnɪməm spɛnd rɪˈkwaɪəmənt/",
+    "meaning": "Apakah ada syarat belanja minimal?",
+    "audio_file": "is_there_a_minimum_spend_requirement.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Can I buy a gift card?",
+    "phonetic": "/kæn aɪ baɪ ə ɡɪft kɑːd/",
+    "meaning": "Bolehkah saya membeli kartu hadiah?",
+    "audio_file": "can_i_buy_a_gift_card.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you offer free returns?",
+    "phonetic": "/duː juː ˈɒfə friː rɪˈtɜːnz/",
+    "meaning": "Apakah Anda menawarkan pengembalian gratis?",
+    "audio_file": "do_you_offer_free_returns.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Is this item available in other colors?",
+    "phonetic": "/ɪz ðɪs ˈaɪtəm əˈveɪləbl ɪn ˈʌðə ˈkʌləz/",
+    "meaning": "Apakah barang ini tersedia dalam warna lain?",
+    "audio_file": "is_this_item_available_in_other_colors.mp3",
+    "category": "shopping"
+  },
+  {
+    "word": "Do you offer gift wrapping services?",
+    "phonetic": "/duː juː ˈɒfə ɡɪft ˈræpɪŋ ˈsɜːvɪsɪz/",
+    "meaning": "Apakah Anda menawarkan layanan pembungkusan hadiah?",
+    "audio_file": "do_you_offer_gift_wrapping_services.mp3",
+    "category": "shopping"
   }
 ]
