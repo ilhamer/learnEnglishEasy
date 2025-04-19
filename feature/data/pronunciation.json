@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Hello",
+    "phonetic": "/he'leo/",
+    "meaning": "Ucapan salam",
+    "audio_file": "hello.mp3",
+    "category": "greetings"
+  },
+  {
+    "word": "Goodbye",
+    "phonetic": "/god'bar/",
+    "meaning": "Ucapan selamat tinggal",
+    "audio_file": "goodbye.mp3",
+    "category": "greetings"
+  },
+  {
+    "word": "Thank you",
+    "phonetic": "/θæŋk juː/",
+    "meaning": "Ucapan terima kasih",
+    "audio_file": "thank_you.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "How are you?",
+    "phonetic": "/haʊ ɑːr juː/",
+    "meaning": "Menanyakan kabar",
+    "audio_file": "how_are_you.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "Please",
+    "phonetic": "/pliːz/",
+    "meaning": "Meminta dengan sopan",
+    "audio_file": "please.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "Sorry",
+    "phonetic": "/ˈsɒri/",
+    "meaning": "Meminta maaf",
+    "audio_file": "sorry.mp3",
+    "category": "phrases"
+  },
+  {
+    "word": "Good morning",
+    "phonetic": "/ɡʊd ˈmɔːnɪŋ/",
+    "meaning": "Selamat pagi",
+    "audio_file": "good_morning.mp3",
+    "category": "greetings"
+  },
+  {
+    "word": "Good night",
+    "phonetic": "/ɡʊd naɪt/",
+    "meaning": "Selamat malam",
+    "audio_file": "good_night.mp3",
+    "category": "greetings"
+  }
+]

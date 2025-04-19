@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Memperkenalkan Diri",
+    "description": "Percakapan dasar untuk memperkenalkan diri",
+    "category": "greetings",
+    "dialog": [
+      {
+        "speaker": "John",
+        "english": "Hello, my name is John. What's your name?",
+        "indonesian": "Halo, nama saya John. Siapa nama Anda?"
+      },
+      {
+        "speaker": "Lisa",
+        "english": "Hi John, I'm Lisa. Nice to meet you.",
+        "indonesian": "Hai John, saya Lisa. Senang bertemu denganmu."
+      },
+      {
+        "speaker": "John",
+        "english": "Nice to meet you too, Lisa. Where are you from?",
+        "indonesian": "Senang bertemu denganmu juga, Lisa. Kamu dari mana?"
+      },
+      {
+        "speaker": "Lisa",
+        "english": "I'm from Jakarta, Indonesia. How about you?",
+        "indonesian": "Saya dari Jakarta, Indonesia. Bagaimana denganmu?"
+      },
+      {
+        "speaker": "John",
+        "english": "I'm from London, England. Are you here for vacation?",
+        "indonesian": "Saya dari London, Inggris. Apakah kamu di sini untuk berlibur?"
+      }
+    ],
+    "audio_file": "introduction.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Belanja di Toko",
+    "description": "Percakapan saat berbelanja di toko",
+    "category": "shopping",
+    "dialog": [
+      {
+        "speaker": "Customer",
+        "english": "Excuse me, how much is this shirt?",
+        "indonesian": "Permisi, berapa harga kemeja ini?"
+      },
+      {
+        "speaker": "Shopkeeper",
+        "english": "It's $25. Would you like to try it on?",
+        "indonesian": "Harganya $25. Apakah Anda ingin mencobanya?"
+      },
+      {
+        "speaker": "Customer",
+        "english": "Yes, please. Where is the fitting room?",
+        "indonesian": "Ya, tolong. Di mana ruang ganti?"
+      },
+      {
+        "speaker": "Shopkeeper",
+        "english": "It's over there, on your right.",
+        "indonesian": "Ada di sebelah sana, di sebelah kanan Anda."
+      },
+      {
+        "speaker": "Customer",
+        "english": "Thank you. I'll take this one.",
+        "indonesian": "Terima kasih. Saya akan mengambil yang ini."
+      }
+    ],
+    "audio_file": "shopping.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Memesan Makanan",
+    "description": "Percakapan di restoran saat memesan makanan",
+    "category": "food",
+    "dialog": [
+      {
+        "speaker": "Waiter",
+        "english": "Good evening. Are you ready to order?",
+        "indonesian": "Selamat malam. Apakah Anda siap memesan?"
+      },
+      {
+        "speaker": "Customer",
+        "english": "Yes, I'd like the grilled salmon with vegetables, please.",
+        "indonesian": "Ya, saya ingin salmon panggang dengan sayuran."
+      },
+      {
+        "speaker": "Waiter",
+        "english": "How would you like your salmon cooked?",
+        "indonesian": "Bagaimana tingkat kematangan salmon yang Anda inginkan?"
+      },
+      {
+        "speaker": "Customer",
+        "english": "Medium, please. And could I get a glass of red wine?",
+        "indonesian": "Medium saja. Dan bisakah saya dapatkan segelas anggur merah?"
+      }
+    ],
+    "audio_file": "restaurant.mp3"
+  },
+  {
+    "id": 4,
+    "title": "Bertanya Arah",
+    "description": "Percakapan saat bertanya arah di jalan",
+    "category": "travel",
+    "dialog": [
+      {
+        "speaker": "Tourist",
+        "english": "Excuse me, could you tell me how to get to the museum?",
+        "indonesian": "Permisi, bisakah Anda memberi tahu saya bagaimana cara ke museum?"
+      },
+      {
+        "speaker": "Local",
+        "english": "Sure, it's about two blocks from here. Go straight and turn left at the traffic light.",
+        "indonesian": "Tentu, sekitar dua blok dari sini. Jalan lurus dan belok kiri di lampu lalu lintas."
+      },
+      {
+        "speaker": "Tourist",
+        "english": "Is it within walking distance?",
+        "indonesian": "Apakah bisa dicapai dengan berjalan kaki?"
+      },
+      {
+        "speaker": "Local",
+        "english": "Yes, it's about a 10-minute walk. You can't miss it - it's a big white building.",
+        "indonesian": "Ya, sekitar 10 menit berjalan kaki. Anda tidak akan melewatkannya - itu gedung putih yang besar."
+      }
+    ],
+    "audio_file": "directions.mp3"
+  },
+  {
+    "id": 5,
+    "title": "Memesan Taksi",
+    "description": "Percakapan saat memesan taksi melalui telepon",
+    "category": "travel",
+    "dialog": [
+      {
+        "speaker": "Caller",
+        "english": "Hello, I'd like to book a taxi, please.",
+        "indonesian": "Halo, saya ingin memesan taksi."
+      },
+      {
+        "speaker": "Operator",
+        "english": "Certainly. What's your pickup address?",
+        "indonesian": "Tentu. Apa alamat penjemputan Anda?"
+      },
+      {
+        "speaker": "Caller",
+        "english": "123 Main Street, in front of the post office.",
+        "indonesian": "123 Jalan Utama, di depan kantor pos."
+      },
+      {
+        "speaker": "Operator",
+        "english": "And your destination?",
+        "indonesian": "Dan tujuan Anda?"
+      },
+      {
+        "speaker": "Caller",
+        "english": "Central Station, please. How long will the taxi take?",
+        "indonesian": "Stasiun Pusat. Berapa lama taksi akan tiba?"
+      }
+    ],
+    "audio_file": "taxi.mp3"
+  }
+]

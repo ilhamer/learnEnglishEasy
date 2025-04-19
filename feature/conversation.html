@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Percakapan Bahasa Inggris | EnglishForBeginners</title>
+    <link rel="stylesheet" href="css/conversation.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header class="conversation-header">
+        <div class="container">
+            <a href="index.html" class="logo">
+                <i class="fas fa-language logo-icon"></i>
+                <span>EnglishForBeginners</span>
+            </a>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Beranda</a></li>
+                    <li><a href="vocabulary.html">Kosakata</a></li>
+                    <li><a href="grammar.html">Tata Bahasa</a></li>
+                    <li><a href="pronunciation.html" >Pelafalan</a></li>
+                    <li><a href="conversation.html" >Percakapan</a></li>
+                    <li><a href="about.html">Tentang</a></li>
+                </ul>
+                <button class="menu-toggle">
+                    <i class="fas fa-bars"></i>
+                </button>
+            </nav>
+        </div>
+    </header>
+
+    <main class="conversation-main">
+        <section class="hero-section">
+            <div class="container">
+                <h1>Percakapan Bahasa Inggris</h1>
+                <p class="subtitle">Praktikkan dialog sehari-hari dengan situasi nyata</p>
+                <div class="gradient-line"></div>
+            </div>
+        </section>
+
+        <section class="conversation-content">
+            <div class="container">
+                <div class="category-filter">
+                    <button class="filter-btn active" data-category="all">Semua</button>
+                    <button class="filter-btn" data-category="greetings">Sapaan</button>
+                    <button class="filter-btn" data-category="shopping">Belanja</button>
+                    <button class="filter-btn" data-category="travel">Perjalanan</button>
+                    <button class="filter-btn" data-category="food">Makanan</button>
+                </div>
+
+                <div class="conversation-grid" id="conversationGrid">
+                    <!-- Konten akan diisi oleh JavaScript -->
+                    <div class="loading">
+                        <div class="loader"></div>
+                        <p>Memuat data percakapan...</p>
+                    </div>
+                </div>
+
+                <div class="practice-section">
+                    <h2><i class="fas fa-comments"></i> Praktik Percakapan</h2>
+                    <div class="practice-container">
+                        <div class="conversation-display" id="conversationDisplay">
+                            <div class="message-container" id="messageContainer">
+                                <!-- Pesan percakapan akan muncul di sini -->
+                            </div>
+                        </div>
+                        <div class="conversation-controls">
+                            <button class="btn play-btn" id="playConversation">
+                                <i class="fas fa-play"></i> Putar Percakapan
+                            </button>
+                            <button class="btn record-btn" id="recordBtn">
+                                <i class="fas fa-microphone"></i> Rekam Percakapan
+                            </button>
+                            <button class="btn next-btn" id="nextConversation">
+                                <i class="fas fa-forward"></i> Percakapan Selanjutnya
+                            </button>
+                        </div>
+                        <div class="feedback" id="feedback">
+                            Pilih percakapan untuk memulai praktik
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="conversation-footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Tentang Kami</h3>
+                    <p>EnglishForBeginners membantu Anda mempelajari bahasa Inggris dari dasar dengan metode interaktif.</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Kontak</h3>
+                    <p><i class="fas fa-envelope"></i> info@englishforbeginners.com</p>
+                    <p><i class="fas fa-phone"></i> +62 123 4567 890</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Sosial Media</h3>
+                    <div class="social-icons">
+                        <a href="#"><i class="fab fa-facebook"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-youtube"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="copyright">
+                <p>&copy; 2025 EnglishForBeginners. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/conversation.js"></script>
+</body>
+</html>
