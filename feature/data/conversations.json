@@ -158,5 +158,460 @@
       }
     ],
     "audio_file": "taxi.mp3"
+  },
+  {
+    "id": 6,
+    "title": "Check-in Hotel",
+    "description": "Percakapan saat check-in di hotel",
+    "category": "travel",
+    "dialog": [
+      {
+        "speaker": "Guest",
+        "english": "Good afternoon, I have a reservation under the name Smith.",
+        "indonesian": "Selamat siang, saya memiliki reservasi atas nama Smith."
+      },
+      {
+        "speaker": "Receptionist",
+        "english": "Welcome, Mr. Smith. Let me check... Yes, we have your reservation for two nights.",
+        "indonesian": "Selamat datang, Tuan Smith. Mari saya periksa... Ya, kami memiliki reservasi Anda untuk dua malam."
+      },
+      {
+        "speaker": "Guest",
+        "english": "Could I get a room with a city view if possible?",
+        "indonesian": "Bisakah saya mendapatkan kamar dengan pemandangan kota jika memungkinkan?"
+      },
+      {
+        "speaker": "Receptionist",
+        "english": "Certainly, I can give you a room on the 8th floor with a nice view. Here's your key card.",
+        "indonesian": "Tentu, saya bisa memberikan Anda kamar di lantai 8 dengan pemandangan yang bagus. Ini kartu kunci Anda."
+      }
+    ],
+    "audio_file": "hotel_checkin.mp3"
+  },
+  {
+    "id": 7,
+    "title": "Konsultasi Dokter",
+    "description": "Percakapan dengan dokter di klinik",
+    "category": "health",
+    "dialog": [
+      {
+        "speaker": "Doctor",
+        "english": "What seems to be the problem?",
+        "indonesian": "Apa keluhan Anda?"
+      },
+      {
+        "speaker": "Patient",
+        "english": "I've had a fever and sore throat for three days now.",
+        "indonesian": "Saya mengalami demam dan sakit tenggorokan selama tiga hari."
+      },
+      {
+        "speaker": "Doctor",
+        "english": "Let me examine you. Please open your mouth and say 'ah'.",
+        "indonesian": "Biar saya periksa. Tolong buka mulut dan bilang 'ah'."
+      },
+      {
+        "speaker": "Patient",
+        "english": "Ah... Is it serious, doctor?",
+        "indonesian": "Ah... Apakah ini serius, dok?"
+      },
+      {
+        "speaker": "Doctor",
+        "english": "It's just a viral infection. I'll prescribe some medicine for the symptoms.",
+        "indonesian": "Ini hanya infeksi virus. Saya akan meresepkan obat untuk gejalanya."
+      }
+    ],
+    "audio_file": "doctor_visit.mp3"
+  },
+  {
+    "id": 8,
+    "title": "Meminjam Buku",
+    "description": "Percakapan di perpustakaan saat meminjam buku",
+    "category": "education",
+    "dialog": [
+      {
+        "speaker": "Librarian",
+        "english": "How can I help you today?",
+        "indonesian": "Ada yang bisa saya bantu hari ini?"
+      },
+      {
+        "speaker": "Student",
+        "english": "I'd like to borrow this book about Indonesian history.",
+        "indonesian": "Saya ingin meminjam buku tentang sejarah Indonesia ini."
+      },
+      {
+        "speaker": "Librarian",
+        "english": "Do you have your library card with you?",
+        "indonesian": "Apakah Anda membawa kartu perpustakaan?"
+      },
+      {
+        "speaker": "Student",
+        "english": "Yes, here it is. How long can I keep the book?",
+        "indonesian": "Ya, ini. Berapa lama saya bisa meminjam buku ini?"
+      },
+      {
+        "speaker": "Librarian",
+        "english": "The loan period is two weeks. You can renew it online if needed.",
+        "indonesian": "Masa pinjam adalah dua minggu. Anda bisa memperpanjangnya secara online jika diperlukan."
+      }
+    ],
+    "audio_file": "library.mp3"
+  },
+  {
+    "id": 9,
+    "title": "Laporan Polisi",
+    "description": "Percakapan saat melaporkan kehilangan dompet di kantor polisi",
+    "category": "emergency",
+    "dialog": [
+      {
+        "speaker": "Police Officer",
+        "english": "How can I assist you today?",
+        "indonesian": "Apa yang bisa saya bantu hari ini?"
+      },
+      {
+        "speaker": "Victim",
+        "english": "I'd like to report a stolen wallet. It was taken on the bus this morning.",
+        "indonesian": "Saya ingin melaporkan dompet yang dicuri. Dompet itu diambil di bus pagi ini."
+      },
+      {
+        "speaker": "Police Officer",
+        "english": "Can you describe the wallet and its contents?",
+        "indonesian": "Bisakah Anda mendeskripsikan dompet dan isinya?"
+      },
+      {
+        "speaker": "Victim",
+        "english": "It's a black leather wallet with my ID card, credit cards, and about $50 in cash.",
+        "indonesian": "Dompet kulit hitam berisi kartu identitas saya, kartu kredit, dan sekitar $50 tunai."
+      },
+      {
+        "speaker": "Police Officer",
+        "english": "We'll file a report. Here's your case number for reference.",
+        "indonesian": "Kami akan membuat laporan. Ini nomor kasus Anda untuk referensi."
+      }
+    ],
+    "audio_file": "police_report.mp3"
+  },
+  {
+    "id": 10,
+    "title": "Wawancara Kerja",
+    "description": "Percakapan dalam wawancara pekerjaan",
+    "category": "business",
+    "dialog": [
+      {
+        "speaker": "Interviewer",
+        "english": "Tell me about your previous work experience.",
+        "indonesian": "Ceritakan tentang pengalaman kerja Anda sebelumnya."
+      },
+      {
+        "speaker": "Candidate",
+        "english": "I worked as a sales associate for two years at ABC Company.",
+        "indonesian": "Saya bekerja sebagai sales associate selama dua tahun di Perusahaan ABC."
+      },
+      {
+        "speaker": "Interviewer",
+        "english": "Why are you interested in this position?",
+        "indonesian": "Mengapa Anda tertarik dengan posisi ini?"
+      },
+      {
+        "speaker": "Candidate",
+        "english": "I'm looking for new challenges and this role aligns with my skills.",
+        "indonesian": "Saya mencari tantangan baru dan peran ini sesuai dengan keahlian saya."
+      },
+      {
+        "speaker": "Interviewer",
+        "english": "Where do you see yourself in five years?",
+        "indonesian": "Di mana Anda melihat diri Anda dalam lima tahun?"
+      }
+    ],
+    "audio_file": "job_interview.mp3"
+  },
+  {
+    "id": 11,
+    "title": "Memesan Kopi di Kafe",
+    "description": "Percakapan saat memesan minuman di kafe",
+    "category": "food",
+    "dialog": [
+      {
+        "speaker": "Barista",
+        "english": "Good morning! What would you like to order?",
+        "indonesian": "Selamat pagi! Apa yang ingin Anda pesan?"
+      },
+      {
+        "speaker": "Customer",
+        "english": "I'd like a medium latte with less sugar, please.",
+        "indonesian": "Saya ingin latte ukuran sedang dengan sedikit gula."
+      },
+      {
+        "speaker": "Barista",
+        "english": "Would you like it hot or iced?",
+        "indonesian": "Anda mau yang panas atau dingin?"
+      },
+      {
+        "speaker": "Customer",
+        "english": "Hot, please. And can I also get a croissant?",
+        "indonesian": "Panas. Dan bisakah saya juga dapatkan croissant?"
+      }
+    ],
+    "audio_file": "coffee_order.mp3"
+  },
+  {
+    "id": 12,
+    "title": "Menanyakan Jadwal Kereta",
+    "description": "Percakapan di stasiun kereta",
+    "category": "travel",
+    "dialog": [
+      {
+        "speaker": "Passenger",
+        "english": "Excuse me, when is the next train to Bandung?",
+        "indonesian": "Permisi, kapan kereta berikutnya ke Bandung?"
+      },
+      {
+        "speaker": "Officer",
+        "english": "The next train departs at 3:15 PM from platform 2.",
+        "indonesian": "Kereta berikutnya berangkat pukul 15.15 dari peron 2."
+      },
+      {
+        "speaker": "Passenger",
+        "english": "How long does the journey take?",
+        "indonesian": "Berapa lama perjalanannya?"
+      },
+      {
+        "speaker": "Officer",
+        "english": "Approximately 3 hours. Would you like a one-way or return ticket?",
+        "indonesian": "Sekitar 3 jam. Anda mau tiket sekali jalan atau pulang-pergi?"
+      }
+    ],
+    "audio_file": "train_schedule.mp3"
+  },
+  {
+    "id": 13,
+    "title": "Mengeluhkan Masalah Internet",
+    "description": "Percakapan dengan layanan pelanggan ISP",
+    "category": "technology",
+    "dialog": [
+      {
+        "speaker": "Customer",
+        "english": "Hello, I've been having internet connection issues since yesterday.",
+        "indonesian": "Halo, saya mengalami masalah koneksi internet sejak kemarin."
+      },
+      {
+        "speaker": "Agent",
+        "english": "Have you tried restarting your router?",
+        "indonesian": "Sudahkah Anda mencoba menyalakan ulang router?"
+      },
+      {
+        "speaker": "Customer",
+        "english": "Yes, but it's still very slow. Sometimes it disconnects completely.",
+        "indonesian": "Sudah, tapi masih lambat. Kadang terputus sama sekali."
+      },
+      {
+        "speaker": "Agent",
+        "english": "I'll check the connection on our end. Please hold for a moment.",
+        "indonesian": "Saya akan memeriksa koneksi dari sini. Mohon tunggu sebentar."
+      }
+    ],
+    "audio_file": "internet_issue.mp3"
+  },
+  {
+    "id": 14,
+    "title": "Membeli Tiket Bioskop",
+    "description": "Percakapan di loket tiket bioskop",
+    "category": "entertainment",
+    "dialog": [
+      {
+        "speaker": "Cashier",
+        "english": "Which movie would you like to watch?",
+        "indonesian": "Film apa yang ingin Anda tonton?"
+      },
+      {
+        "speaker": "Customer",
+        "english": "Two tickets for 'Oppenheimer', please. The 7 PM show.",
+        "indonesian": "Dua tiket untuk 'Oppenheimer', yang jam 7 malam."
+      },
+      {
+        "speaker": "Cashier",
+        "english": "Would you like regular or VIP seats?",
+        "indonesian": "Mau kursi regular atau VIP?"
+      },
+      {
+        "speaker": "Customer",
+        "english": "Regular is fine. How much is it in total?",
+        "indonesian": "Regular saja. Berapa total harganya?"
+      }
+    ],
+    "audio_file": "movie_tickets.mp3"
+  },
+  {
+    "id": 15,
+    "title": "Membatalkan Reservasi",
+    "description": "Percakapan saat membatalkan reservasi hotel",
+    "category": "travel",
+    "dialog": [
+      {
+        "speaker": "Receptionist",
+        "english": "Grand Hotel, how may I assist you?",
+        "indonesian": "Grand Hotel, ada yang bisa saya bantu?"
+      },
+      {
+        "speaker": "Guest",
+        "english": "I'd like to cancel my reservation for next week.",
+        "indonesian": "Saya ingin membatalkan reservasi saya untuk minggu depan."
+      },
+      {
+        "speaker": "Receptionist",
+        "english": "May I have your booking reference number?",
+        "indonesian": "Boleh saya minta nomor referensi pemesanan Anda?"
+      },
+      {
+        "speaker": "Guest",
+        "english": "It's GH-2024-5678. Will there be a cancellation fee?",
+        "indonesian": "Nomornya GH-2024-5678. Apakah ada biaya pembatalan?"
+      }
+    ],
+    "audio_file": "cancel_reservation.mp3"
+  },
+  {
+    "id": 16,
+    "title": "Meminta Rekomendasi Makanan",
+    "description": "Percakapan meminta saran menu di restoran",
+    "category": "food",
+    "dialog": [
+      {
+        "speaker": "Customer",
+        "english": "What do you recommend for someone who likes spicy food?",
+        "indonesian": "Apa rekomendasi Anda untuk yang suka makanan pedas?"
+      },
+      {
+        "speaker": "Waiter",
+        "english": "Our signature dish is 'Sambal Matah Prawns'. It's very popular!",
+        "indonesian": "Menu andalan kami adalah 'Udang Sambal Matah'. Ini sangat laris!"
+      },
+      {
+        "speaker": "Customer",
+        "english": "Is it extremely spicy? I can handle medium-level spice.",
+        "indonesian": "Apakah sangat pedas? Saya bisa makan pedas level sedang."
+      },
+      {
+        "speaker": "Waiter",
+        "english": "We can adjust the spice level. Would you like to try it?",
+        "indonesian": "Kami bisa menyesuaikan tingkat kepedasan. Mau mencobanya?"
+      }
+    ],
+    "audio_file": "food_recommendation.mp3"
+  },
+  {
+    "id": 17,
+    "title": "Lapor Kebocoran Air",
+    "description": "Percakapan melaporkan masalah pipa air ke landlord",
+    "category": "housing",
+    "dialog": [
+      {
+        "speaker": "Tenant",
+        "english": "Hello, there's a water leak under the kitchen sink. It's quite bad.",
+        "indonesian": "Halo, ada kebocoran air di bawah wastafel dapur. Cukup parah."
+      },
+      {
+        "speaker": "Landlord",
+        "english": "When did you notice the leak?",
+        "indonesian": "Kapan Anda menyadari kebocoran ini?"
+      },
+      {
+        "speaker": "Tenant",
+        "english": "This morning. There's already a small puddle on the floor.",
+        "indonesian": "Pagi tadi. Sudah ada genangan kecil di lantai."
+      },
+      {
+        "speaker": "Landlord",
+        "english": "I'll send a plumber within two hours. Please clear the area first.",
+        "indonesian": "Saya akan mengirim tukang ledeng dalam dua jam. Tolong kosongkan area itu dulu."
+      }
+    ],
+    "audio_file": "water_leak.mp3"
+  },
+  {
+    "id": 18,
+    "title": "Diskusi Proyek Kantor",
+    "description": "Percakapan rapat tim di tempat kerja",
+    "category": "business",
+    "dialog": [
+      {
+        "speaker": "Manager",
+        "english": "Let's review the project timeline. Are we on track?",
+        "indonesian": "Mari kita tinjau timeline proyek. Apakah kita sesuai jadwal?"
+      },
+      {
+        "speaker": "Employee",
+        "english": "The design phase is complete, but development is delayed by 3 days.",
+        "indonesian": "Fase desain sudah selesai, tapi pengembangan tertunda 3 hari."
+      },
+      {
+        "speaker": "Manager",
+        "english": "What's causing the delay?",
+        "indonesian": "Apa penyebab keterlambatannya?"
+      },
+      {
+        "speaker": "Employee",
+        "english": "We encountered unexpected bugs in the payment module.",
+        "indonesian": "Kami menemukan bug tak terduga di modul pembayaran."
+      }
+    ],
+    "audio_file": "office_meeting.mp3"
+  },
+  {
+    "id": 19,
+    "title": "Komplain Kamar Hotel",
+    "description": "Percakapan saat melaporkan masalah di kamar hotel",
+    "category": "travel",
+    "dialog": [
+      {
+        "speaker": "Guest",
+        "english": "The air conditioner in my room isn't working properly.",
+        "indonesian": "AC di kamar saya tidak bekerja dengan baik."
+      },
+      {
+        "speaker": "Receptionist",
+        "english": "I apologize for the inconvenience. Would you like us to repair it or move you to another room?",
+        "indonesian": "Saya minta maaf atas ketidaknyamanannya. Anda ingin kami memperbaikinya atau memindahkan Anda ke kamar lain?"
+      },
+      {
+        "speaker": "Guest",
+        "english": "If possible, I'd prefer to change rooms. It's too hot in there.",
+        "indonesian": "Jika memungkinkan, saya ingin pindah kamar. Terlalu panas di sana."
+      },
+      {
+        "speaker": "Receptionist",
+        "english": "We have a similar room on the 5th floor. I'll arrange it immediately.",
+        "indonesian": "Kami punya kamar serupa di lantai 5. Akan saya siapkan segera."
+      }
+    ],
+    "audio_file": "hotel_complaint.mp3"
+  },
+  {
+    "id": 20,
+    "title": "Tanya Harga Sewa Mobil",
+    "description": "Percakapan di rental mobil",
+    "category": "transportation",
+    "dialog": [
+      {
+        "speaker": "Customer",
+        "english": "How much does it cost to rent a compact car for 3 days?",
+        "indonesian": "Berapa biaya sewa mobil compact untuk 3 hari?"
+      },
+      {
+        "speaker": "Agent",
+        "english": "It's $45 per day, including insurance. Total would be $135.",
+        "indonesian": "$45 per hari, termasuk asuransi. Totalnya $135."
+      },
+      {
+        "speaker": "Customer",
+        "english": "Is there a discount for weekly rental?",
+        "indonesian": "Ada diskon untuk sewa mingguan?"
+      },
+      {
+        "speaker": "Agent",
+        "english": "Yes, you get 10% off for rentals over 5 days.",
+        "indonesian": "Ya, Anda dapat diskon 10% untuk sewa di atas 5 hari."
+      }
+    ],
+    "audio_file": "car_rental.mp3"
   }
 ]
